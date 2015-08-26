@@ -50,7 +50,7 @@
                         <Masks />
                         <VisualStates />
                     </Shape>
-                    <Shape Type="Rectangle" EndTime="0.09669355" ShapeTimeSpan="304" X="304" Y="143" Width="11" Height="5" TipX="0" TipY="21" Label="1Rectangle 5" StartTime="0.07217742" Left="304" Right="885" Top="143" Bottom="652" LineWidth="0px" BackgroundColor="#ffff00" Id="RftZcHjYmEaO85VtCZNSTw">
+                    <Shape Type="Rectangle" EndTime="0.09669355" ShapeTimeSpan="306" X="304" Y="143" Width="11" Height="5" TipX="0" TipY="21" Label="1Rectangle 5" StartTime="0.07201613" Left="304" Right="885" Top="143" Bottom="652" LineWidth="0px" BackgroundColor="#ffff00" Id="RftZcHjYmEaO85VtCZNSTw">
                         <KeyFrames>
                             <KeyFrame TargetProperty="Size" TargetTimeMS="949" TargetValue="11,5" />
                             <KeyFrame TargetProperty="Position" TargetTimeMS="949" TargetValue="304,143" InValue="284,123" OutValue="324,163" />
@@ -177,16 +177,11 @@
                     <Shape Type="Oval" EndTime="1" ShapeTimeSpan="12400" X="480" Y="109" Width="88" Height="53" TipX="0" TipY="21" Label="Oval 0" StartTime="0" Id="mWQSQ0VmSE6HvICUnrLrDA" Left="480" Right="632" Top="109" Bottom="638">
                         <KeyFrames />
                         <Masks>
-                            <ClipMask Type="Rectangle" EndTime="1.24" ShapeTimeSpan="12400" MaskType="Clip" Id="3HdpxYHwYkiz2SInV2aZoA">
+                            <ClipMask Type="Rectangle" EndTime="1.24" ShapeTimeSpan="12400" MaskType="Clip" Id="3HdpxYHwYkiz2SInV2aZoA" Label="Rectangle 0">
                                 <KeyFrames />
                                 <Masks />
                             </ClipMask>
                         </Masks>
-                    </Shape>
-                    <Shape Type="Polyline" EndTime="1" ShapeTimeSpan="12400" Coordinates="435,137,724,120,360,259,408,366" Label="Polyline 5" StartTime="0" Id="P2DvxC1aHEeanfbj6wAkHA">
-                        <KeyFrames />
-                        <Masks />
-                        <Actions />
                     </Shape>
                 </Shapes>
                 <Shapes IsResourceLayer="true" Name="Resources" />
