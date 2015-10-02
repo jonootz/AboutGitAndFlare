@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MimicMovie X="242" Y="68" Width="1400" Height="900">
+    <Frames>
+        <Frame EnableSoundEffect="true" StopPreviousSound="false" TimeSpan="500" Bitmap="Frame1.png" TimeSpanned="true" ComputedWidth="1400" ComputedHeight="900">
+            <Shapes>
+                <Shapes>
+                    <Shape Type="Cursor" X="750" Y="190" Width="30" Height="30" Right="620" Bottom="680" Left="750" Top="190" Animation="Move()" BackgroundColor="#ffff00" Transparency="0.26" />
+                    <Shape Type="Cursor" X="825" Y="190" Width="75" Height="80" Right="500" Bottom="630" Left="825" Top="190" />
+                    <Shape Type="Cursor" X="945" Y="180" Width="135" Height="80" Right="320" Bottom="640" Left="945" Top="180" />
+                    <Shape Type="Cursor" X="915" Y="270" Width="30" Height="140" Right="455" Bottom="490" Left="915" Top="270" />
+                    <Shape Type="Cursor" X="1125" Y="220" Width="225" Height="210" Right="50" Bottom="470" Left="1125" Top="220" />
+                </Shapes>
+                <OriginalImage />
+                <Shapes IsResourceLayer="true" Name="Resources" />
+                <ConditionTagSet />
+            </Shapes>
+            <AFrames />
+        </Frame>
+    </Frames>
+    <ConditionTagSet>
+        <ConditionTag Name="Advanced" BackgroundColor="#0000ff" />
+        <ConditionTag Name="Beginner" BackgroundColor="#ff0000" />
+    </ConditionTagSet>
+</MimicMovie>
