@@ -1,0 +1,431 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MimicMovie Version="8" X="2003" Y="48" Width="1394" Height="876" Type="Rectangle" EndTime="1" ShapeTimeSpan="10000">
+    <Frames>
+        <Frame Id="Z3_hliwFf0mTxIqt8A1tZg" Type="Rectangle" EndTime="1" ShapeTimeSpan="1955" EnableSoundEffect="true" StopPreviousSound="false" TimeSpan="1955" Bitmap="Frame1.jpg" TimeSpanned="true">
+            <Shapes>
+                <Shapes>
+                    <Shape Type="Rectangle" PaddingLeft="0" PaddingBottom="0" PaddingRight="0" PaddingTop="0" LineWidth="0" Width="48" Height="48" X="25" Y="28" Conditions="Movie.Practice,Collection.Practice" EndTime="1" ShapeTimeSpan="1955" Label="Rectangle 0" Id="5qKCD8bUfESyC51xu3Ftww" StartTime="0">
+                        <Actions>
+                            <Action Event="Click" Action="GotoNext" />
+                        </Actions>
+                        <KeyFrames />
+                        <Masks />
+                        <VisualStates />
+                    </Shape>
+                    <Shape Type="Cursor" EndTime="1" ShapeTimeSpan="1955" X="-2020" Y="-65" Width="34" Height="34" TipX="24" TipY="68" Right="175" Bottom="72" Left="28" Top="41" SoundEffect="system:MiscSingleClick.mp3" Id="GR7qTzyVBEO7SM33azQqrg" Transparency="1" Conditions="Movie.Demo,Collection.Demo" Label="Cursor 0" StartTime="0">
+                        <KeyFrames>
+                            <KeyFrame TargetProperty="Position" TargetValue="-2020,-65" InValue="-2040,-85" OutValue="-2000,-45" />
+                            <KeyFrame TargetProperty="Position" TargetTimeMS="1955" TargetValue="41,44" InValue="21,24" OutValue="61,64" />
+                        </KeyFrames>
+                        <Actions>
+                            <Action Event="End" Action="GotoNext" />
+                        </Actions>
+                        <Masks />
+                        <VisualStates />
+                    </Shape>
+                    <Shape Type="Bubble" EndTime="1" ShapeTimeSpan="1955" X="41" Y="44" Width="100" Height="100" TipX="0" TipY="0" BackgroundColor="#ffffff" BackgroundColorAlt="#eeeeee" BackgroundType="GradientNS" Color="#000000" FontSize="11pt" LineColor="#4169e1" LineWidth="1" EnableShadow="True" ShadowDX="4" ShadowDY="4" ShadowColor="#696969" ShadowTransparency="0.7" CalloutWidth="60" CalloutHeight="60" Right="203" Bottom="100" Left="47" Top="60" Id="tUSoAGxDNEWjzJBRMIFZSQ" CalloutX="60" CalloutY="60" PaddingLeft="0" PaddingRight="0" PaddingTop="0" PaddingBottom="0" TimeSpanned="false" Label="Bubble 0">Click<KeyFrames /><Masks /><VisualStates /></Shape>
+                </Shapes>
+                <OriginalImage Type="Image" EndTime="1" ShapeTimeSpan="1955" Id="0YR5Im4pHkmZNGVbg3r7bA" />
+                <Shapes IsResourceLayer="true" Name="Resources" />
+                <ConditionTagSet />
+            </Shapes>
+            <ActionShapes>
+                <ActionShapes />
+            </ActionShapes>
+            <AFrames />
+            <Sounds />
+        </Frame>
+        <Frame Id="ywRSZ1xOQkCkHaDidPPruw" Type="Rectangle" EndTime="1" ShapeTimeSpan="1835" EnableSoundEffect="true" StopPreviousSound="false" TimeSpan="1835" Bitmap="Frame2.jpg" TimeSpanned="true">
+            <Shapes>
+                <Shapes>
+                    <Shape Type="Rectangle" PaddingLeft="0" PaddingBottom="0" PaddingRight="0" PaddingTop="0" LineWidth="0" Width="48" Height="48" X="305" Y="71" Conditions="Movie.Practice,Collection.Practice" EndTime="1" ShapeTimeSpan="1835" Label="Rectangle 0" Id="mQF04SJsuU2tHB4lXT9YRQ" StartTime="0">
+                        <Actions>
+                            <Action Event="Click" Action="GotoNext" />
+                        </Actions>
+                        <KeyFrames />
+                        <Masks />
+                        <VisualStates />
+                    </Shape>
+                    <Shape Type="Cursor" EndTime="1" ShapeTimeSpan="1835" X="24" Y="28" Width="34" Height="34" TipX="24" TipY="68" Right="175" Bottom="72" Left="28" Top="41" SoundEffect="system:MiscSingleClick.mp3" Id="GR7qTzyVBEO7SM33azQqrg" Transparency="1" Conditions="Movie.Demo,Collection.Demo" Label="Cursor 0" StartTime="0">
+                        <KeyFrames>
+                            <KeyFrame TargetProperty="Position" TargetValue="24,28" InValue="4,8" OutValue="44,48" />
+                            <KeyFrame TargetProperty="Position" TargetTimeMS="1835" TargetValue="321,87" InValue="301,67" OutValue="341,107" />
+                        </KeyFrames>
+                        <Actions>
+                            <Action Event="End" Action="GotoNext" />
+                        </Actions>
+                        <Masks />
+                        <VisualStates />
+                    </Shape>
+                    <Shape Type="Bubble" EndTime="1" ShapeTimeSpan="1835" X="321" Y="87" Width="100" Height="100" TipX="0" TipY="0" BackgroundColor="#ffffff" BackgroundColorAlt="#eeeeee" BackgroundType="GradientNS" Color="#000000" FontSize="11pt" LineColor="#4169e1" LineWidth="1" EnableShadow="True" ShadowDX="4" ShadowDY="4" ShadowColor="#696969" ShadowTransparency="0.7" CalloutWidth="60" CalloutHeight="60" Right="203" Bottom="100" Left="47" Top="60" Id="tUSoAGxDNEWjzJBRMIFZSQ" CalloutX="60" CalloutY="60" PaddingLeft="0" PaddingRight="0" PaddingTop="0" PaddingBottom="0" TimeSpanned="false" Label="Bubble 0">Click<KeyFrames /><Masks /><VisualStates /></Shape>
+                </Shapes>
+                <OriginalImage Type="Image" EndTime="1" ShapeTimeSpan="1835" Id="xJlJQ0ZY00qjPSK3EZaRdg" />
+                <Shapes IsResourceLayer="true" Name="Resources" />
+                <ConditionTagSet />
+            </Shapes>
+            <ActionShapes>
+                <ActionShapes />
+            </ActionShapes>
+            <AFrames />
+            <Sounds />
+        </Frame>
+        <Frame Id="RUW2t_ZMuUazBfAIcJReEQ" Type="Rectangle" EndTime="1" ShapeTimeSpan="9782" EnableSoundEffect="true" StopPreviousSound="false" TimeSpan="9782" Bitmap="Frame3.jpg" TimeSpanned="true">
+            <Shapes>
+                <Shapes>
+                    <Shape Type="TypingBox" EndTime="0.9709671" ShapeTimeSpan="7361" X="546" Y="258" Width="333" Height="15" TipX="0" TipY="21" PaddingLeft="0" PaddingRight="0" PaddingTop="0" PaddingBottom="0" FontFamily="Tahoma" FontSize="8.25pt" TypedText="10 02 2015 Mimic" Conditions="Movie.Demo,Collection.Demo" Label="Typing Box 0" Id="mYFrTzomsESnMi2boATxkQ" StartTime="0.2184625">
+                        <KeyFrames>
+                            <KeyFrame TargetProperty="Text" TargetTimeMS="2137" TargetValue="" />
+                            <KeyFrame TargetProperty="Text" TargetTimeMS="2570" TargetValue="1" />
+                            <KeyFrame TargetProperty="Text" TargetTimeMS="3003" TargetValue="10" />
+                            <KeyFrame TargetProperty="Text" TargetTimeMS="3436" TargetValue="10 " />
+                            <KeyFrame TargetProperty="Text" TargetTimeMS="3869" TargetValue="10 0" />
+                            <KeyFrame TargetProperty="Text" TargetTimeMS="4302" TargetValue="10 02" />
+                            <KeyFrame TargetProperty="Text" TargetTimeMS="4735" TargetValue="10 02 " />
+                            <KeyFrame TargetProperty="Text" TargetTimeMS="5168" TargetValue="10 02 2" />
+                            <KeyFrame TargetProperty="Text" TargetTimeMS="5601" TargetValue="10 02 20" />
+                            <KeyFrame TargetProperty="Text" TargetTimeMS="6034" TargetValue="10 02 201" />
+                            <KeyFrame TargetProperty="Text" TargetTimeMS="6467" TargetValue="10 02 2015" />
+                            <KeyFrame TargetProperty="Text" TargetTimeMS="6900" TargetValue="10 02 2015 " />
+                            <KeyFrame TargetProperty="Text" TargetTimeMS="7333" TargetValue="10 02 2015 M" />
+                            <KeyFrame TargetProperty="Text" TargetTimeMS="7766" TargetValue="10 02 2015 Mi" />
+                            <KeyFrame TargetProperty="Text" TargetTimeMS="8199" TargetValue="10 02 2015 Mim" />
+                            <KeyFrame TargetProperty="Text" TargetTimeMS="8632" TargetValue="10 02 2015 Mimi" />
+                            <KeyFrame TargetProperty="Text" TargetTimeMS="9065" TargetValue="10 02 2015 Mimic" />
+                        </KeyFrames>
+                        <Actions>
+                            <Action Event="End" Action="GotoNext" />
+                        </Actions>
+                        <Masks />
+                        <VisualStates />
+                    </Shape>
+                    <Shape Type="InputBox" LineWidth="0" PaddingLeft="0" PaddingRight="0" PaddingTop="0" PaddingBottom="0" X="546" Y="258" Width="333" Height="15" InputCorrectEntries="10 02 2015 Mimic" Conditions="Movie.Practice,Collection.Practice" ShapeTimeSpan="9782" Label="Input Box 0" Id="uYyTZUbH_UKbKWxMAmhMOA" StartTime="0" EndTime="1">
+                        <Actions>
+                            <Action Event="Success" Action="GotoNext">
+                                <Parameters />
+                            </Action>
+                        </Actions>
+                        <KeyFrames />
+                        <Masks />
+                        <VisualStates />
+                        <Entries />
+                    </Shape>
+                    <Shape Type="Bubble" EndTime="1" ShapeTimeSpan="9284" X="563" Y="266" Width="100" Height="100" TipX="149" TipY="0" BackgroundColor="#ffffff" BackgroundColorAlt="#eeeeee" BackgroundType="GradientNS" Color="#000000" FontSize="11pt" LineColor="#4169e1" LineWidth="1" EnableShadow="True" ShadowDX="4" ShadowDY="4" ShadowColor="#696969" ShadowTransparency="0.7" CalloutWidth="98" CalloutHeight="73" Right="203" Bottom="100" Left="47" Top="60" Id="tUSoAGxDNEWjzJBRMIFZSQ" CalloutX="0" CalloutY="60" PaddingLeft="0" PaddingRight="0" PaddingTop="0" PaddingBottom="0" TimeSpanned="True" Label="Bubble 0" StartTime="0.05090984">Enter "10 02 2015 Mimic"<KeyFrames><KeyFrame TargetProperty="Opacity" TargetValue="1" /><KeyFrame TargetProperty="Opacity" TargetValue="1" /></KeyFrames><Masks /><VisualStates /><Actions /></Shape>
+                </Shapes>
+                <OriginalImage Type="Image" EndTime="1" ShapeTimeSpan="9782" Id="p9X4s1fRpEuEDgd601D61g" />
+                <Shapes IsResourceLayer="true" Name="Resources" />
+                <ConditionTagSet />
+            </Shapes>
+            <ActionShapes>
+                <ActionShapes />
+            </ActionShapes>
+            <AFrames />
+            <Sounds />
+        </Frame>
+        <Frame Id="TQ8lyBYduUKQLgrz7Ogzow" Type="Rectangle" EndTime="1" ShapeTimeSpan="2549" EnableSoundEffect="true" StopPreviousSound="false" TimeSpan="2549" Bitmap="Frame4.jpg" TimeSpanned="true" ComputedWidth="1394" ComputedHeight="876">
+            <Shapes>
+                <Shapes>
+                    <Shape Type="Rectangle" PaddingLeft="0" PaddingBottom="0" PaddingRight="0" PaddingTop="0" LineWidth="0" Width="133" Height="17" X="425" Y="716" Conditions="Movie.Practice,Collection.Practice" EndTime="1" ShapeTimeSpan="2549" Label="Rectangle 0" Id="zTkFQ--qRUuK7RIIgt7ciw" StartTime="0">
+                        <Actions>
+                            <Action Event="Click" Action="GotoNext">
+                                <Parameters />
+                            </Action>
+                        </Actions>
+                        <KeyFrames />
+                        <Masks />
+                        <VisualStates />
+                    </Shape>
+                    <Shape Type="Cursor" EndTime="1" ShapeTimeSpan="2549" X="304" Y="70" Width="34" Height="34" TipX="24" TipY="68" Right="175" Bottom="72" Left="28" Top="41" SoundEffect="system:MiscSingleClick.mp3" Id="GR7qTzyVBEO7SM33azQqrg" Transparency="1" Conditions="Movie.Demo,Collection.Demo" Label="Cursor 0" StartTime="0">
+                        <KeyFrames>
+                            <KeyFrame TargetProperty="Position" TargetValue="304,70" InValue="284,50" OutValue="324,90" />
+                            <KeyFrame TargetProperty="Position" TargetTimeMS="2549" TargetValue="433,717" InValue="413,697" OutValue="453,737" />
+                        </KeyFrames>
+                        <Actions>
+                            <Action Event="End" Action="GotoNext" />
+                        </Actions>
+                        <Masks />
+                        <VisualStates />
+                    </Shape>
+                    <Shape Type="Bubble" EndTime="1" ShapeTimeSpan="2549" X="433" Y="628" Width="100" Height="100" TipX="0" TipY="89" BackgroundColor="#ffffff" BackgroundColorAlt="#eeeeee" BackgroundType="GradientNS" Color="#000000" FontSize="11pt" LineColor="#4169e1" LineWidth="1" EnableShadow="True" ShadowDX="4" ShadowDY="4" ShadowColor="#696969" ShadowTransparency="0.7" CalloutWidth="106" CalloutHeight="80" Right="203" Bottom="100" Left="47" Top="60" Id="tUSoAGxDNEWjzJBRMIFZSQ" CalloutX="60" CalloutY="0" PaddingLeft="0" PaddingRight="0" PaddingTop="0" PaddingBottom="0" TimeSpanned="false" Label="Bubble 0">Click "Bind to Source Control"<KeyFrames /><Masks /><VisualStates /><Actions /></Shape>
+                </Shapes>
+                <OriginalImage Type="Image" EndTime="1" ShapeTimeSpan="2549" Id="Bd8WCZ1wVEWk_wKDfU5OBA" />
+                <Shapes IsResourceLayer="true" Name="Resources" />
+                <ConditionTagSet />
+            </Shapes>
+            <ActionShapes>
+                <ActionShapes />
+            </ActionShapes>
+            <AFrames />
+            <Sounds />
+        </Frame>
+        <Frame Id="cFDeyWAFi0-bDq5A9S4CEw" Type="Rectangle" EndTime="1" ShapeTimeSpan="859" EnableSoundEffect="true" StopPreviousSound="false" TimeSpan="859" Bitmap="Frame5.jpg" TimeSpanned="true">
+            <Shapes>
+                <Shapes>
+                    <Shape Type="Rectangle" PaddingLeft="0" PaddingBottom="0" PaddingRight="0" PaddingTop="0" LineWidth="0" Width="75" Height="23" X="745" Y="757" Conditions="Movie.Practice,Collection.Practice" EndTime="1" ShapeTimeSpan="10000" Label="Rectangle 0" Id="2KB47rd5x0y4WRevXdqNYQ" StartTime="0">
+                        <Actions>
+                            <Action Event="Click" Action="GotoNext" />
+                        </Actions>
+                        <KeyFrames />
+                        <Masks />
+                        <VisualStates />
+                    </Shape>
+                    <Shape Type="Cursor" EndTime="1" ShapeTimeSpan="10000" X="417" Y="700" Width="34" Height="34" TipX="24" TipY="68" Right="175" Bottom="72" Left="28" Top="41" SoundEffect="system:MiscSingleClick.mp3" Id="GR7qTzyVBEO7SM33azQqrg" Transparency="1" Conditions="Movie.Demo,Collection.Demo" Label="Cursor 0" StartTime="0">
+                        <KeyFrames>
+                            <KeyFrame TargetProperty="Position" TargetValue="417,700" InValue="397,680" OutValue="437,720" />
+                            <KeyFrame TargetProperty="Position" TargetTimeMS="859" TargetValue="767,760" InValue="747,740" OutValue="787,780" />
+                        </KeyFrames>
+                        <Actions>
+                            <Action Event="End" Action="GotoNext" />
+                        </Actions>
+                        <Masks />
+                        <VisualStates />
+                    </Shape>
+                    <Shape Type="Bubble" EndTime="1" ShapeTimeSpan="10000" X="618" Y="671" Width="100" Height="100" TipX="149" TipY="89" BackgroundColor="#ffffff" BackgroundColorAlt="#eeeeee" BackgroundType="GradientNS" Color="#000000" FontSize="11pt" LineColor="#4169e1" LineWidth="1" EnableShadow="True" ShadowDX="4" ShadowDY="4" ShadowColor="#696969" ShadowTransparency="0.7" CalloutWidth="73" CalloutHeight="60" Right="203" Bottom="100" Left="47" Top="60" Id="tUSoAGxDNEWjzJBRMIFZSQ" CalloutX="0" CalloutY="0" PaddingLeft="0" PaddingRight="0" PaddingTop="0" PaddingBottom="0" TimeSpanned="false" Label="Bubble 0">Click "&amp;Next &gt;"<KeyFrames /><Masks /><VisualStates /></Shape>
+                </Shapes>
+                <OriginalImage Type="Image" EndTime="1" ShapeTimeSpan="859" Id="Evxtn-nqH0CbfsyYhehNhA" />
+            </Shapes>
+            <ActionShapes>
+                <ActionShapes />
+            </ActionShapes>
+            <AFrames />
+            <Sounds />
+        </Frame>
+        <Frame Id="JmgDTTGKrEW47NawiXkXFA" Type="Rectangle" EndTime="1" ShapeTimeSpan="1197" EnableSoundEffect="true" StopPreviousSound="false" TimeSpan="1197" Bitmap="Frame6.jpg" TimeSpanned="true">
+            <Shapes>
+                <Shapes>
+                    <Shape Type="Rectangle" PaddingLeft="0" PaddingBottom="0" PaddingRight="0" PaddingTop="0" LineWidth="0" Width="134" Height="23" X="575" Y="364" Conditions="Movie.Practice,Collection.Practice" EndTime="1" ShapeTimeSpan="10000" Label="Rectangle 0" Id="pMgtQBp1BEG9RKfB24a7mQ" StartTime="0">
+                        <Actions>
+                            <Action Event="Click" Action="GotoNext" />
+                        </Actions>
+                        <KeyFrames />
+                        <Masks />
+                        <VisualStates />
+                    </Shape>
+                    <Shape Type="Cursor" EndTime="1" ShapeTimeSpan="10000" X="751" Y="743" Width="34" Height="34" TipX="24" TipY="68" Right="175" Bottom="72" Left="28" Top="41" SoundEffect="system:MiscSingleClick.mp3" Id="GR7qTzyVBEO7SM33azQqrg" Transparency="1" Conditions="Movie.Demo,Collection.Demo" Label="Cursor 0" StartTime="0">
+                        <KeyFrames>
+                            <KeyFrame TargetProperty="Position" TargetValue="751,743" InValue="731,723" OutValue="771,763" />
+                            <KeyFrame TargetProperty="Position" TargetTimeMS="1197" TargetValue="657,372" InValue="637,352" OutValue="677,392" />
+                        </KeyFrames>
+                        <Actions>
+                            <Action Event="End" Action="GotoNext" />
+                        </Actions>
+                        <Masks />
+                        <VisualStates />
+                    </Shape>
+                    <Shape Type="Bubble" EndTime="1" ShapeTimeSpan="10000" X="657" Y="372" Width="100" Height="100" TipX="0" TipY="0" BackgroundColor="#ffffff" BackgroundColorAlt="#eeeeee" BackgroundType="GradientNS" Color="#000000" FontSize="11pt" LineColor="#4169e1" LineWidth="1" EnableShadow="True" ShadowDX="4" ShadowDY="4" ShadowColor="#696969" ShadowTransparency="0.7" CalloutWidth="90" CalloutHeight="68" Right="203" Bottom="100" Left="47" Top="60" Id="tUSoAGxDNEWjzJBRMIFZSQ" CalloutX="60" CalloutY="60" PaddingLeft="0" PaddingRight="0" PaddingTop="0" PaddingBottom="0" TimeSpanned="false" Label="Bubble 0">Click "Bind Project..."<KeyFrames /><Masks /><VisualStates /></Shape>
+                </Shapes>
+                <OriginalImage Type="Image" EndTime="1" ShapeTimeSpan="1197" Id="PLcaeuoolkC8joaj2WDNaA" />
+            </Shapes>
+            <ActionShapes />
+            <AFrames />
+            <Sounds />
+        </Frame>
+        <Frame Id="90YgITwRykaA9XjFarn19Q" Type="Rectangle" EndTime="1" ShapeTimeSpan="4979" EnableSoundEffect="true" StopPreviousSound="false" TimeSpan="4979" Bitmap="Frame7.jpg" TimeSpanned="true">
+            <Shapes>
+                <Shapes>
+                    <Shape Type="Rectangle" PaddingLeft="0" PaddingBottom="0" PaddingRight="0" PaddingTop="0" LineWidth="0" Width="48" Height="48" X="803" Y="280" Conditions="Movie.Practice,Collection.Practice" EndTime="1" ShapeTimeSpan="10000" Label="Rectangle 0" Id="5ZzTeBiyJUCwDjMayJbHHQ" StartTime="0">
+                        <Actions>
+                            <Action Event="Click" Action="GotoNext" />
+                        </Actions>
+                        <KeyFrames />
+                        <Masks />
+                        <VisualStates />
+                    </Shape>
+                    <Shape Type="Cursor" EndTime="1" ShapeTimeSpan="10000" X="639" Y="354" Width="34" Height="34" TipX="24" TipY="68" Right="175" Bottom="72" Left="28" Top="41" SoundEffect="system:MiscSingleClick.mp3" Id="GR7qTzyVBEO7SM33azQqrg" Transparency="1" Conditions="Movie.Demo,Collection.Demo" Label="Cursor 0" StartTime="0">
+                        <KeyFrames>
+                            <KeyFrame TargetProperty="Position" TargetValue="639,354" InValue="619,334" OutValue="659,374" />
+                            <KeyFrame TargetProperty="Position" TargetTimeMS="4979" TargetValue="819,296" InValue="799,276" OutValue="839,316" />
+                        </KeyFrames>
+                        <Actions>
+                            <Action Event="End" Action="GotoNext" />
+                        </Actions>
+                        <Masks />
+                        <VisualStates />
+                    </Shape>
+                    <Shape Type="Bubble" EndTime="1" ShapeTimeSpan="10000" X="670" Y="296" Width="100" Height="100" TipX="149" TipY="0" BackgroundColor="#ffffff" BackgroundColorAlt="#eeeeee" BackgroundType="GradientNS" Color="#000000" FontSize="11pt" LineColor="#4169e1" LineWidth="1" EnableShadow="True" ShadowDX="4" ShadowDY="4" ShadowColor="#696969" ShadowTransparency="0.7" CalloutWidth="60" CalloutHeight="60" Right="203" Bottom="100" Left="47" Top="60" Id="tUSoAGxDNEWjzJBRMIFZSQ" CalloutX="0" CalloutY="60" PaddingLeft="0" PaddingRight="0" PaddingTop="0" PaddingBottom="0" TimeSpanned="false" Label="Bubble 0">Click<KeyFrames /><Masks /><VisualStates /></Shape>
+                </Shapes>
+                <OriginalImage Type="Image" EndTime="1" ShapeTimeSpan="4979" Id="8islYGPFOU65a6v9WpVUoQ" />
+            </Shapes>
+            <ActionShapes>
+                <ActionShapes />
+            </ActionShapes>
+            <AFrames />
+            <Sounds />
+        </Frame>
+        <Frame Id="J6xf0P5tFky45Hmt9Ru1Ww" Type="Rectangle" EndTime="1" ShapeTimeSpan="1205" EnableSoundEffect="true" StopPreviousSound="false" TimeSpan="1205" Bitmap="Frame8.jpg" TimeSpanned="true">
+            <Shapes>
+                <Shapes>
+                    <Shape Type="Rectangle" PaddingLeft="0" PaddingBottom="0" PaddingRight="0" PaddingTop="0" LineWidth="0" Width="48" Height="48" X="512" Y="328" Conditions="Movie.Practice,Collection.Practice" EndTime="1" ShapeTimeSpan="10000" Label="Rectangle 0" Id="-gWIykpw80uqAeBePErx1A" StartTime="0">
+                        <Actions>
+                            <Action Event="Click" Action="GotoNext" />
+                        </Actions>
+                        <KeyFrames />
+                    </Shape>
+                    <Shape Type="Cursor" EndTime="1" ShapeTimeSpan="10000" X="802" Y="279" Width="34" Height="34" TipX="24" TipY="68" Right="175" Bottom="72" Left="28" Top="41" SoundEffect="system:MiscSingleClick.mp3" Id="GR7qTzyVBEO7SM33azQqrg" Transparency="1" Conditions="Movie.Demo,Collection.Demo" Label="Cursor 0" StartTime="0">
+                        <KeyFrames>
+                            <KeyFrame TargetProperty="Position" TargetValue="802,279" InValue="782,259" OutValue="822,299" />
+                            <KeyFrame TargetProperty="Position" TargetTimeMS="1205" TargetValue="528,344" InValue="508,324" OutValue="548,364" />
+                        </KeyFrames>
+                        <Actions>
+                            <Action Event="End" Action="GotoNext" />
+                        </Actions>
+                    </Shape>
+                    <Shape Type="Bubble" EndTime="1" ShapeTimeSpan="10000" X="528" Y="344" Width="100" Height="100" TipX="0" TipY="0" BackgroundColor="#ffffff" BackgroundColorAlt="#eeeeee" BackgroundType="GradientNS" Color="#000000" FontSize="11pt" LineColor="#4169e1" LineWidth="1" EnableShadow="True" ShadowDX="4" ShadowDY="4" ShadowColor="#696969" ShadowTransparency="0.7" CalloutWidth="60" CalloutHeight="60" Right="203" Bottom="100" Left="47" Top="60" Id="tUSoAGxDNEWjzJBRMIFZSQ" CalloutX="60" CalloutY="60" PaddingLeft="0" PaddingRight="0" PaddingTop="0" PaddingBottom="0" TimeSpanned="false" Label="Bubble 0">Click<KeyFrames /></Shape>
+                </Shapes>
+                <OriginalImage Type="Image" EndTime="1" ShapeTimeSpan="1205" Id="8yx5QeLhz0GIt5HfynnNzw" />
+            </Shapes>
+            <ActionShapes />
+            <AFrames />
+            <Sounds />
+        </Frame>
+        <Frame Id="xJO-LlaMr025k8WuoINsug" Type="Rectangle" EndTime="1" ShapeTimeSpan="10000" EnableSoundEffect="true" StopPreviousSound="false" TimeSpan="1663" Bitmap="Frame9.jpg" TimeSpanned="true">
+            <Shapes>
+                <Shapes>
+                    <Shape Type="Rectangle" PaddingLeft="0" PaddingBottom="0" PaddingRight="0" PaddingTop="0" LineWidth="0" Width="79" Height="23" X="738" Y="660" Conditions="Movie.Practice,Collection.Practice" EndTime="1" ShapeTimeSpan="10000" Label="Rectangle 0" Id="a9vkQISn3Ue5N49IoNhsqA" StartTime="0">
+                        <Actions>
+                            <Action Event="Click" Action="GotoNext" />
+                        </Actions>
+                        <KeyFrames />
+                    </Shape>
+                    <Shape Type="Cursor" EndTime="1" ShapeTimeSpan="10000" X="509" Y="327" Width="34" Height="34" TipX="24" TipY="68" Right="175" Bottom="72" Left="28" Top="41" SoundEffect="system:MiscSingleClick.mp3" Id="GR7qTzyVBEO7SM33azQqrg" Transparency="1" Conditions="Movie.Demo,Collection.Demo" Label="Cursor 0" StartTime="0">
+                        <KeyFrames>
+                            <KeyFrame TargetProperty="Position" TargetValue="509,327" InValue="489,307" OutValue="529,347" />
+                            <KeyFrame TargetProperty="Position" TargetTimeMS="1663" TargetValue="760,663" InValue="740,643" OutValue="780,683" />
+                        </KeyFrames>
+                        <Actions>
+                            <Action Event="End" Action="GotoNext" />
+                        </Actions>
+                    </Shape>
+                    <Shape Type="Bubble" EndTime="1" ShapeTimeSpan="10000" X="611" Y="574" Width="100" Height="100" TipX="149" TipY="89" BackgroundColor="#ffffff" BackgroundColorAlt="#eeeeee" BackgroundType="GradientNS" Color="#000000" FontSize="11pt" LineColor="#4169e1" LineWidth="1" EnableShadow="True" ShadowDX="4" ShadowDY="4" ShadowColor="#696969" ShadowTransparency="0.7" CalloutWidth="65" CalloutHeight="60" Right="203" Bottom="100" Left="47" Top="60" Id="tUSoAGxDNEWjzJBRMIFZSQ" CalloutX="0" CalloutY="0" PaddingLeft="0" PaddingRight="0" PaddingTop="0" PaddingBottom="0" TimeSpanned="false" Label="Bubble 0">Click "OK"<KeyFrames /></Shape>
+                </Shapes>
+                <OriginalImage Type="Image" EndTime="1" ShapeTimeSpan="1663" Id="dJNHhB3oIkudzCJzShmrHQ" />
+            </Shapes>
+            <ActionShapes />
+            <AFrames />
+            <Sounds />
+        </Frame>
+        <Frame Id="NPr8v8dBmESnlGP0EPAztw" Type="Rectangle" EndTime="1" ShapeTimeSpan="10000" EnableSoundEffect="true" StopPreviousSound="false" TimeSpan="1280" Bitmap="Frame10.jpg" TimeSpanned="true">
+            <Shapes>
+                <Shapes>
+                    <Shape Type="Rectangle" PaddingLeft="0" PaddingBottom="0" PaddingRight="0" PaddingTop="0" LineWidth="0" Width="75" Height="23" X="745" Y="757" Conditions="Movie.Practice,Collection.Practice" EndTime="1" ShapeTimeSpan="10000" Label="Rectangle 0" Id="4twn-I_Ew0eSbjDcyu90qw" StartTime="0">
+                        <Actions>
+                            <Action Event="Click" Action="GotoNext" />
+                        </Actions>
+                        <KeyFrames />
+                    </Shape>
+                    <Shape Type="Cursor" EndTime="1" ShapeTimeSpan="10000" X="743" Y="645" Width="34" Height="34" TipX="24" TipY="68" Right="175" Bottom="72" Left="28" Top="41" SoundEffect="system:MiscSingleClick.mp3" Id="GR7qTzyVBEO7SM33azQqrg" Transparency="1" Conditions="Movie.Demo,Collection.Demo" Label="Cursor 0" StartTime="0">
+                        <KeyFrames>
+                            <KeyFrame TargetProperty="Position" TargetValue="743,645" InValue="723,625" OutValue="763,665" />
+                            <KeyFrame TargetProperty="Position" TargetTimeMS="1280" TargetValue="754,762" InValue="734,742" OutValue="774,782" />
+                        </KeyFrames>
+                        <Actions>
+                            <Action Event="End" Action="GotoNext" />
+                        </Actions>
+                    </Shape>
+                    <Shape Type="Bubble" EndTime="1" ShapeTimeSpan="10000" X="605" Y="673" Width="100" Height="100" TipX="149" TipY="89" BackgroundColor="#ffffff" BackgroundColorAlt="#eeeeee" BackgroundType="GradientNS" Color="#000000" FontSize="11pt" LineColor="#4169e1" LineWidth="1" EnableShadow="True" ShadowDX="4" ShadowDY="4" ShadowColor="#696969" ShadowTransparency="0.7" CalloutWidth="73" CalloutHeight="60" Right="203" Bottom="100" Left="47" Top="60" Id="tUSoAGxDNEWjzJBRMIFZSQ" CalloutX="0" CalloutY="0" PaddingLeft="0" PaddingRight="0" PaddingTop="0" PaddingBottom="0" TimeSpanned="false" Label="Bubble 0">Click "&amp;Next &gt;"<KeyFrames /></Shape>
+                </Shapes>
+                <OriginalImage Type="Image" EndTime="1" ShapeTimeSpan="1280" Id="yth_JBXPlEuMrjihDz95Cg" />
+            </Shapes>
+            <ActionShapes />
+            <AFrames />
+            <Sounds />
+        </Frame>
+        <Frame Id="kGG_h6MRQUCS7iPz7Yz42Q" Type="Rectangle" EndTime="1" ShapeTimeSpan="10000" EnableSoundEffect="true" StopPreviousSound="false" TimeSpan="4979" Bitmap="Frame11.jpg" TimeSpanned="true">
+            <Shapes>
+                <Shapes>
+                    <Shape Type="Rectangle" PaddingLeft="0" PaddingBottom="0" PaddingRight="0" PaddingTop="0" LineWidth="0" Width="48" Height="48" X="489" Y="429" Conditions="Movie.Practice,Collection.Practice" EndTime="1" ShapeTimeSpan="10000" Label="Rectangle 0" Id="k9Nd5xA550CGc1uF4WpbIg" StartTime="0">
+                        <Actions>
+                            <Action Event="Click" Action="GotoNext" />
+                        </Actions>
+                        <KeyFrames />
+                    </Shape>
+                    <Shape Type="Cursor" EndTime="1" ShapeTimeSpan="10000" X="737" Y="745" Width="34" Height="34" TipX="24" TipY="68" Right="175" Bottom="72" Left="28" Top="41" SoundEffect="system:MiscSingleClick.mp3" Id="GR7qTzyVBEO7SM33azQqrg" Transparency="1" Conditions="Movie.Demo,Collection.Demo" Label="Cursor 0" StartTime="0">
+                        <KeyFrames>
+                            <KeyFrame TargetProperty="Position" TargetValue="737,745" InValue="717,725" OutValue="757,765" />
+                            <KeyFrame TargetProperty="Position" TargetTimeMS="4979" TargetValue="505,445" InValue="485,425" OutValue="525,465" />
+                        </KeyFrames>
+                        <Actions>
+                            <Action Event="End" Action="GotoNext" />
+                        </Actions>
+                    </Shape>
+                    <Shape Type="Bubble" EndTime="1" ShapeTimeSpan="10000" X="505" Y="356" Width="100" Height="100" TipX="0" TipY="89" BackgroundColor="#ffffff" BackgroundColorAlt="#eeeeee" BackgroundType="GradientNS" Color="#000000" FontSize="11pt" LineColor="#4169e1" LineWidth="1" EnableShadow="True" ShadowDX="4" ShadowDY="4" ShadowColor="#696969" ShadowTransparency="0.7" CalloutWidth="60" CalloutHeight="60" Right="203" Bottom="100" Left="47" Top="60" Id="tUSoAGxDNEWjzJBRMIFZSQ" CalloutX="60" CalloutY="0" PaddingLeft="0" PaddingRight="0" PaddingTop="0" PaddingBottom="0" TimeSpanned="false" Label="Bubble 0">Click<KeyFrames /></Shape>
+                </Shapes>
+                <OriginalImage Type="Image" EndTime="1" ShapeTimeSpan="4979" Id="rbUXomNZWUefDDvGlfga2A" />
+            </Shapes>
+            <ActionShapes />
+            <AFrames />
+            <Sounds />
+        </Frame>
+        <Frame Id="a8nkwH_cIE-cwrlAoZQ6DQ" Type="Rectangle" EndTime="1" ShapeTimeSpan="10000" EnableSoundEffect="true" StopPreviousSound="false" TimeSpan="1371" Bitmap="Frame12.jpg" TimeSpanned="true">
+            <Shapes>
+                <Shapes>
+                    <Shape Type="Rectangle" PaddingLeft="0" PaddingBottom="0" PaddingRight="0" PaddingTop="0" LineWidth="0" Width="75" Height="23" X="745" Y="757" Conditions="Movie.Practice,Collection.Practice" EndTime="1" ShapeTimeSpan="10000" Label="Rectangle 0" Id="Pfgq6JUOQU6o0C7BGtRsuA" StartTime="0">
+                        <Actions>
+                            <Action Event="Click" Action="GotoNext" />
+                        </Actions>
+                        <KeyFrames />
+                    </Shape>
+                    <Shape Type="Cursor" EndTime="1" ShapeTimeSpan="10000" X="489" Y="428" Width="34" Height="34" TipX="24" TipY="68" Right="175" Bottom="72" Left="28" Top="41" SoundEffect="system:MiscSingleClick.mp3" Id="GR7qTzyVBEO7SM33azQqrg" Transparency="1" Conditions="Movie.Demo,Collection.Demo" Label="Cursor 0" StartTime="0">
+                        <KeyFrames>
+                            <KeyFrame TargetProperty="Position" TargetValue="489,428" InValue="469,408" OutValue="509,448" />
+                            <KeyFrame TargetProperty="Position" TargetTimeMS="1371" TargetValue="802,764" InValue="782,744" OutValue="822,784" />
+                        </KeyFrames>
+                        <Actions>
+                            <Action Event="End" Action="GotoNext" />
+                        </Actions>
+                    </Shape>
+                    <Shape Type="Bubble" EndTime="1" ShapeTimeSpan="10000" X="653" Y="675" Width="100" Height="100" TipX="149" TipY="89" BackgroundColor="#ffffff" BackgroundColorAlt="#eeeeee" BackgroundType="GradientNS" Color="#000000" FontSize="11pt" LineColor="#4169e1" LineWidth="1" EnableShadow="True" ShadowDX="4" ShadowDY="4" ShadowColor="#696969" ShadowTransparency="0.7" CalloutWidth="73" CalloutHeight="60" Right="203" Bottom="100" Left="47" Top="60" Id="tUSoAGxDNEWjzJBRMIFZSQ" CalloutX="0" CalloutY="0" PaddingLeft="0" PaddingRight="0" PaddingTop="0" PaddingBottom="0" TimeSpanned="false" Label="Bubble 0">Click "&amp;Next &gt;"<KeyFrames /></Shape>
+                </Shapes>
+                <OriginalImage Type="Image" EndTime="1" ShapeTimeSpan="1371" Id="G_RkOKQVZEi4nCSRVHi1AQ" />
+            </Shapes>
+            <ActionShapes />
+            <AFrames />
+            <Sounds />
+        </Frame>
+        <Frame Id="wOUlloEWIUyErHAUrmSaPg" Type="Rectangle" EndTime="1" ShapeTimeSpan="10000" EnableSoundEffect="true" StopPreviousSound="false" TimeSpan="940" Bitmap="Frame13.jpg" TimeSpanned="true">
+            <Shapes>
+                <Shapes>
+                    <Shape Type="Rectangle" PaddingLeft="0" PaddingBottom="0" PaddingRight="0" PaddingTop="0" LineWidth="0" Width="75" Height="23" X="827" Y="757" Conditions="Movie.Practice,Collection.Practice" EndTime="1" ShapeTimeSpan="10000" Label="Rectangle 0" Id="nRVTd0zQD0GxABRPnIAxZg" StartTime="0">
+                        <Actions>
+                            <Action Event="Click" Action="GotoNext" />
+                        </Actions>
+                        <KeyFrames />
+                    </Shape>
+                    <Shape Type="Cursor" EndTime="1" ShapeTimeSpan="10000" X="785" Y="747" Width="34" Height="34" TipX="24" TipY="68" Right="175" Bottom="72" Left="28" Top="41" SoundEffect="system:MiscSingleClick.mp3" Id="GR7qTzyVBEO7SM33azQqrg" Transparency="1" Conditions="Movie.Demo,Collection.Demo" Label="Cursor 0" StartTime="0">
+                        <KeyFrames>
+                            <KeyFrame TargetProperty="Position" TargetValue="785,747" InValue="765,727" OutValue="805,767" />
+                            <KeyFrame TargetProperty="Position" TargetTimeMS="940" TargetValue="872,764" InValue="852,744" OutValue="892,784" />
+                        </KeyFrames>
+                        <Actions>
+                            <Action Event="End" Action="GotoNext" />
+                        </Actions>
+                    </Shape>
+                    <Shape Type="Bubble" EndTime="1" ShapeTimeSpan="10000" X="723" Y="675" Width="100" Height="100" TipX="149" TipY="89" BackgroundColor="#ffffff" BackgroundColorAlt="#eeeeee" BackgroundType="GradientNS" Color="#000000" FontSize="11pt" LineColor="#4169e1" LineWidth="1" EnableShadow="True" ShadowDX="4" ShadowDY="4" ShadowColor="#696969" ShadowTransparency="0.7" CalloutWidth="72" CalloutHeight="60" Right="203" Bottom="100" Left="47" Top="60" Id="tUSoAGxDNEWjzJBRMIFZSQ" CalloutX="0" CalloutY="0" PaddingLeft="0" PaddingRight="0" PaddingTop="0" PaddingBottom="0" TimeSpanned="false" Label="Bubble 0">Click "&amp;Finish"<KeyFrames /></Shape>
+                </Shapes>
+                <OriginalImage Type="Image" EndTime="1" ShapeTimeSpan="940" Id="r_XMgbdyN0OTLWCqBPYUVw" />
+            </Shapes>
+            <ActionShapes />
+            <AFrames />
+            <Sounds />
+        </Frame>
+        <Frame Id="-sbJnKYMb0-ywadYr1O0dw" Type="Rectangle" EndTime="1" ShapeTimeSpan="10000" EnableSoundEffect="true" StopPreviousSound="false" TimeSpan="2568" Bitmap="Frame14.jpg" TimeSpanned="true">
+            <Shapes>
+                <Shapes>
+                    <Shape Type="Cursor" EndTime="1" ShapeTimeSpan="10000" X="856" Y="747" Width="34" Height="34" TipX="24" TipY="68" Right="175" Bottom="72" Left="28" Top="41" SoundEffect="system:MiscSingleClick.mp3" Id="GR7qTzyVBEO7SM33azQqrg" TimeSpanned="False" Conditions="Movie.Demo,Collection.Demo">
+                        <KeyFrames />
+                        <Actions>
+                            <Action Event="End" Action="GotoNext" />
+                        </Actions>
+                    </Shape>
+                </Shapes>
+                <OriginalImage Type="Image" EndTime="1" ShapeTimeSpan="2568" Id="YnfkUOPcKEmJZLxLu8D1SQ" />
+            </Shapes>
+            <ActionShapes />
+            <AFrames />
+            <Sounds />
+        </Frame>
+    </Frames>
+    <ConditionTagSet>
+        <ConditionTag Name="Advanced" BackgroundColor="#0000ff" />
+        <ConditionTag Name="Beginner" BackgroundColor="#ff0000" />
+    </ConditionTagSet>
+</MimicMovie>
