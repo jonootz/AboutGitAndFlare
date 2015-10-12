@@ -1,66 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <MimicMovie Width="900" Height="600" OutputType="html5" Version="8" Comment="This template contains one blank frame. You can edit this frame or add more frames to the movie." Id="PpL2vFVEBkuzy_TEk40neQ" Type="Rectangle" EndTime="1" ShapeTimeSpan="10000">
     <Frames>
-        <Frame Id="nlSUhcxImUSgDz7BqKUKBg" Type="Rectangle" EndTime="1" ShapeTimeSpan="10000" ComputedWidth="900" ComputedHeight="600" Name="White text" BackgroundColor="#ffffff" BackgroundColorAlt="#ffffff">
-            <Shapes Type="Image" EndTime="1" ShapeTimeSpan="10000">
-                <Shapes>
-                    <Shape Type="Polygon" EndTime="1" ShapeTimeSpan="10000" Coordinates="417,247,492.4706,369.3267,542.4706,369.3267,450,216,443,229,446,242,438,255" Label="Polygon for 8" Id="GYDdmbp2uE-0-eSJyItUjw" LockedInEditor="false" BackgroundType="GradientNWSE" BackgroundColor="Transparent" LineWidth="0px" BackgroundColorAlt="#00ffff" ShadowColor="#00ffff">
-                        <KeyFrames />
-                        <Masks />
-                        <VisualStates />
-                        <Actions />
-                    </Shape>
-                    <Shape Type="Polygon" EndTime="1" ShapeTimeSpan="10000" Coordinates="410.7397,234.4013,494.1373,369.3267,471.804,368.9933,393.7397,242.6513" Label="Polygon for hyphen" Id="jjmThBwuAk2ujtEKwifVuw" LockedInEditor="false" BackgroundType="GradientNWSE" BackgroundColor="Transparent" LineWidth="0px" BackgroundColorAlt="#00ffff">
-                        <KeyFrames />
-                        <Masks />
-                        <VisualStates />
-                        <Actions />
-                    </Shape>
-                    <Shape Type="Polygon" EndTime="1" ShapeTimeSpan="10000" Coordinates="384.4706,214.9933,481.4706,369.3267,424.804,368.9933,347.804,254.66,377,251,376,230,381,221" Label="Polygon 4" Id="4Kzlpi_34UOYqm3OPOSeaQ" LockedInEditor="false" BackgroundType="GradientNWSE" BackgroundColor="Transparent" LineWidth="0px" BackgroundColorAlt="#00ffff">
-                        <KeyFrames />
-                        <Masks />
-                        <VisualStates />
-                        <Actions />
-                    </Shape>
-                    <Shape Type="Polygon" EndTime="1" ShapeTimeSpan="10000" Coordinates="334,214,437.804,368.9933,376.804,368.66,297.804,253.9933,330,248,329,235,322,230,330,217" Label="Polygon 5" Id="YJ6arR3al0q6PNQvswasyQ" LockedInEditor="false" BackgroundType="GradientNWSE" BackgroundColor="Transparent" LineWidth="0px" BackgroundColorAlt="#00ffff">
-                        <KeyFrames />
-                        <Masks />
-                        <VisualStates />
-                        <Actions />
-                    </Shape>
-                    <Shape Type="Rectangle" EndTime="1" ShapeTimeSpan="10000" X="255" Y="189" Width="238" Height="191" TipX="0" TipY="21" Label="background text" Id="Rr_xvvFXZU2hSgayMS0SRQ" Left="255" Right="407" Top="189" Bottom="220" FontFamily="Alfa Slab One" FontSize="20pt" LineWidth="0px" EnableShadow="false" HiddenInEditor="false" LockedInEditor="false">&lt;Section xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xml:space="preserve" TextAlignment="Center" LineHeight="Auto" IsHyphenationEnabled="False" xml:lang="en-us" FlowDirection="LeftToRight" NumberSubstitution.CultureSource="Text" NumberSubstitution.Substitution="AsCulture" FontFamily="Alfa Slab One" FontStyle="Normal" FontWeight="Normal" FontStretch="Normal" FontSize="26.666666666666664" Foreground="#FF000000" Typography.StandardLigatures="True" Typography.ContextualLigatures="True" Typography.DiscretionaryLigatures="False" Typography.HistoricalLigatures="False" Typography.AnnotationAlternates="0" Typography.ContextualAlternates="True" Typography.HistoricalForms="False" Typography.Kerning="True" Typography.CapitalSpacing="False" Typography.CaseSensitiveForms="False" Typography.StylisticSet1="False" Typography.StylisticSet2="False" Typography.StylisticSet3="False" Typography.StylisticSet4="False" Typography.StylisticSet5="False" Typography.StylisticSet6="False" Typography.StylisticSet7="False" Typography.StylisticSet8="False" Typography.StylisticSet9="False" Typography.StylisticSet10="False" Typography.StylisticSet11="False" Typography.StylisticSet12="False" Typography.StylisticSet13="False" Typography.StylisticSet14="False" Typography.StylisticSet15="False" Typography.StylisticSet16="False" Typography.StylisticSet17="False" Typography.StylisticSet18="False" Typography.StylisticSet19="False" Typography.StylisticSet20="False" Typography.Fraction="Normal" Typography.SlashedZero="False" Typography.MathematicalGreek="False" Typography.EastAsianExpertForms="False" Typography.Variants="Normal" Typography.Capitals="Normal" Typography.NumeralStyle="Normal" Typography.NumeralAlignment="Normal" Typography.EastAsianWidths="Normal" Typography.EastAsianLanguage="Normal" Typography.StandardSwashes="0" Typography.ContextualSwashes="0" Typography.StylisticAlternates="0"&gt;&lt;Paragraph&gt;&lt;Run FontFamily="Arial Black" FontSize="64" Foreground="#FF48D1CC"&gt;BB-8&lt;/Run&gt;&lt;/Paragraph&gt;&lt;Paragraph&gt;&lt;Run FontSize="16" Foreground="#FF48D1CC"&gt;and the &lt;/Run&gt;&lt;/Paragraph&gt;&lt;Paragraph&gt;&lt;Run Foreground="#FF48D1CC"&gt;shape groups &lt;/Run&gt;&lt;/Paragraph&gt;&lt;Paragraph&gt;&lt;Run FontSize="16" Foreground="#FF48D1CC"&gt;of&lt;/Run&gt;&lt;/Paragraph&gt;&lt;Paragraph&gt;&lt;Run FontWeight="Bold" Foreground="#FF1E90FF"&gt;Mimic&lt;/Run&gt;&lt;/Paragraph&gt;&lt;/Section&gt;<KeyFrames /><Masks /><VisualStates /><Actions /></Shape>
-                    <Shape Type="Rectangle" EndTime="1" ShapeTimeSpan="10000" X="253" Y="187" Width="238" Height="191" TipX="0" TipY="21" Label="black text" Id="6BsxShDtuUi56invD_LWEA" Left="253" Right="409" Top="187" Bottom="222" FontFamily="Alfa Slab One" FontSize="20pt" LineWidth="0px" EnableShadow="false" HiddenInEditor="true" LockedInEditor="false">&lt;Section xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xml:space="preserve" TextAlignment="Center" LineHeight="Auto" IsHyphenationEnabled="False" xml:lang="en-us" FlowDirection="LeftToRight" NumberSubstitution.CultureSource="Text" NumberSubstitution.Substitution="AsCulture" FontFamily="Alfa Slab One" FontStyle="Normal" FontWeight="Normal" FontStretch="Normal" FontSize="26.666666666666664" Foreground="#FF000000" Typography.StandardLigatures="True" Typography.ContextualLigatures="True" Typography.DiscretionaryLigatures="False" Typography.HistoricalLigatures="False" Typography.AnnotationAlternates="0" Typography.ContextualAlternates="True" Typography.HistoricalForms="False" Typography.Kerning="True" Typography.CapitalSpacing="False" Typography.CaseSensitiveForms="False" Typography.StylisticSet1="False" Typography.StylisticSet2="False" Typography.StylisticSet3="False" Typography.StylisticSet4="False" Typography.StylisticSet5="False" Typography.StylisticSet6="False" Typography.StylisticSet7="False" Typography.StylisticSet8="False" Typography.StylisticSet9="False" Typography.StylisticSet10="False" Typography.StylisticSet11="False" Typography.StylisticSet12="False" Typography.StylisticSet13="False" Typography.StylisticSet14="False" Typography.StylisticSet15="False" Typography.StylisticSet16="False" Typography.StylisticSet17="False" Typography.StylisticSet18="False" Typography.StylisticSet19="False" Typography.StylisticSet20="False" Typography.Fraction="Normal" Typography.SlashedZero="False" Typography.MathematicalGreek="False" Typography.EastAsianExpertForms="False" Typography.Variants="Normal" Typography.Capitals="Normal" Typography.NumeralStyle="Normal" Typography.NumeralAlignment="Normal" Typography.EastAsianWidths="Normal" Typography.EastAsianLanguage="Normal" Typography.StandardSwashes="0" Typography.ContextualSwashes="0" Typography.StylisticAlternates="0"&gt;&lt;Paragraph&gt;&lt;Run FontFamily="Arial Black" FontSize="64"&gt;BB-8&lt;/Run&gt;&lt;/Paragraph&gt;&lt;Paragraph&gt;&lt;Run FontSize="16"&gt;and the &lt;/Run&gt;&lt;/Paragraph&gt;&lt;Paragraph&gt;&lt;Run&gt;shape groups &lt;/Run&gt;&lt;/Paragraph&gt;&lt;Paragraph&gt;&lt;Run FontSize="16"&gt;of&lt;/Run&gt;&lt;/Paragraph&gt;&lt;Paragraph&gt;&lt;Run FontWeight="Bold"&gt;Mimic&lt;/Run&gt;&lt;/Paragraph&gt;&lt;/Section&gt;<KeyFrames /><Masks /><VisualStates /><Actions /></Shape>
-                    <Shape Type="Rectangle" EndTime="1" ShapeTimeSpan="10000" X="254" Y="188" Width="238" Height="191" TipX="0" TipY="21" Label="white text" Id="Ik6KwWY5ZUGDqDnx0wPlJg" Left="254" Right="408" Top="188" Bottom="221" FontFamily="Alfa Slab One" FontSize="20pt" LineWidth="0px" EnableShadow="false" HiddenInEditor="true" LockedInEditor="false" Color="#add8e6" LineColor="#add8e6">&lt;Section xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xml:space="preserve" TextAlignment="Center" LineHeight="Auto" IsHyphenationEnabled="False" xml:lang="en-us" FlowDirection="LeftToRight" NumberSubstitution.CultureSource="Text" NumberSubstitution.Substitution="AsCulture" FontFamily="Alfa Slab One" FontStyle="Normal" FontWeight="Normal" FontStretch="Normal" FontSize="26.666666666666664" Foreground="#FFADD8E6" Typography.StandardLigatures="True" Typography.ContextualLigatures="True" Typography.DiscretionaryLigatures="False" Typography.HistoricalLigatures="False" Typography.AnnotationAlternates="0" Typography.ContextualAlternates="True" Typography.HistoricalForms="False" Typography.Kerning="True" Typography.CapitalSpacing="False" Typography.CaseSensitiveForms="False" Typography.StylisticSet1="False" Typography.StylisticSet2="False" Typography.StylisticSet3="False" Typography.StylisticSet4="False" Typography.StylisticSet5="False" Typography.StylisticSet6="False" Typography.StylisticSet7="False" Typography.StylisticSet8="False" Typography.StylisticSet9="False" Typography.StylisticSet10="False" Typography.StylisticSet11="False" Typography.StylisticSet12="False" Typography.StylisticSet13="False" Typography.StylisticSet14="False" Typography.StylisticSet15="False" Typography.StylisticSet16="False" Typography.StylisticSet17="False" Typography.StylisticSet18="False" Typography.StylisticSet19="False" Typography.StylisticSet20="False" Typography.Fraction="Normal" Typography.SlashedZero="False" Typography.MathematicalGreek="False" Typography.EastAsianExpertForms="False" Typography.Variants="Normal" Typography.Capitals="Normal" Typography.NumeralStyle="Normal" Typography.NumeralAlignment="Normal" Typography.EastAsianWidths="Normal" Typography.EastAsianLanguage="Normal" Typography.StandardSwashes="0" Typography.ContextualSwashes="0" Typography.StylisticAlternates="0"&gt;&lt;Paragraph&gt;&lt;Run FontFamily="Arial Black" FontSize="64"&gt;BB-8&lt;/Run&gt;&lt;/Paragraph&gt;&lt;Paragraph&gt;&lt;Run FontSize="16"&gt;and the &lt;/Run&gt;&lt;/Paragraph&gt;&lt;Paragraph&gt;&lt;Run&gt;shape groups &lt;/Run&gt;&lt;/Paragraph&gt;&lt;Paragraph&gt;&lt;Run FontSize="16"&gt;of&lt;/Run&gt;&lt;/Paragraph&gt;&lt;Paragraph&gt;&lt;Run FontWeight="Bold"&gt;Mimic&lt;/Run&gt;&lt;/Paragraph&gt;&lt;/Section&gt;<KeyFrames /><Masks /><VisualStates /><Actions /></Shape>
-                    <Shape Type="Button" EndTime="1" ShapeTimeSpan="10000" X="648" Y="75" Width="179" Height="91" TipX="0" TipY="21" Label="Button 0" Id="UeJuJMggU0e4OiVwnoq5lA" Left="648" Right="73" Top="75" Bottom="434" BackgroundColor="#00ffff" BackgroundColorAlt="#ffffff" Color="#000000" FontWeight="Bold" FontSize="22pt" LineColor="#000000" LineWidth="3px" CornerRadius="0px" EnableShadow="true" ShadowTransparency="0.5593221">&lt;Section xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xml:space="preserve" TextAlignment="Center" LineHeight="Auto" IsHyphenationEnabled="False" xml:lang="en-us" FlowDirection="LeftToRight" NumberSubstitution.CultureSource="Text" NumberSubstitution.Substitution="AsCulture" FontFamily="Arial" FontStyle="Normal" FontWeight="Bold" FontStretch="Normal" FontSize="29.333333333333332" Foreground="#FF000000" Typography.StandardLigatures="True" Typography.ContextualLigatures="True" Typography.DiscretionaryLigatures="False" Typography.HistoricalLigatures="False" Typography.AnnotationAlternates="0" Typography.ContextualAlternates="True" Typography.HistoricalForms="False" Typography.Kerning="True" Typography.CapitalSpacing="False" Typography.CaseSensitiveForms="False" Typography.StylisticSet1="False" Typography.StylisticSet2="False" Typography.StylisticSet3="False" Typography.StylisticSet4="False" Typography.StylisticSet5="False" Typography.StylisticSet6="False" Typography.StylisticSet7="False" Typography.StylisticSet8="False" Typography.StylisticSet9="False" Typography.StylisticSet10="False" Typography.StylisticSet11="False" Typography.StylisticSet12="False" Typography.StylisticSet13="False" Typography.StylisticSet14="False" Typography.StylisticSet15="False" Typography.StylisticSet16="False" Typography.StylisticSet17="False" Typography.StylisticSet18="False" Typography.StylisticSet19="False" Typography.StylisticSet20="False" Typography.Fraction="Normal" Typography.SlashedZero="False" Typography.MathematicalGreek="False" Typography.EastAsianExpertForms="False" Typography.Variants="Normal" Typography.Capitals="Normal" Typography.NumeralStyle="Normal" Typography.NumeralAlignment="Normal" Typography.EastAsianWidths="Normal" Typography.EastAsianLanguage="Normal" Typography.StandardSwashes="0" Typography.ContextualSwashes="0" Typography.StylisticAlternates="0"&gt;&lt;Paragraph&gt;&lt;Run&gt;See the movie&lt;/Run&gt;&lt;/Paragraph&gt;&lt;/Section&gt;<KeyFrames /><Masks /><VisualStates><VisualState Type="Button" EndTime="1" ShapeTimeSpan="10000" Id="XyGyZvkpEkSA-_1ka0xEgw" Label="VisualState1" Transparency="0" BackgroundColor="#00ff00" /><VisualState Type="Button" EndTime="1" ShapeTimeSpan="10000" Id="f2ul3OUy2kSKWPCU8XtfPw" Label="VisualState2" BackgroundColor="#778899" /></VisualStates><Actions><Action Action="GotoFrame"><Parameters><Parameter Name="frame" ValueType="Frame" Value="veX0LtUjcU6efkiRvzxRzw" /></Parameters></Action><Action Event="MouseEnter" Action="SetVisualState"><Parameters><Parameter Name="shape" ValueType="Shape" /><Parameter Name="visualState" ValueType="VisualState" Value="XyGyZvkpEkSA-_1ka0xEgw" /></Parameters></Action><Action Event="MouseUp" Action="SetVisualState"><Parameters><Parameter Name="shape" ValueType="Shape" /><Parameter Name="visualState" ValueType="VisualState" Value="f2ul3OUy2kSKWPCU8XtfPw" /></Parameters></Action><Action Event="MouseEnter" Action="PlayActionShape"><Parameters><Parameter Name="shape" ValueType="ActionShape" Value="V-e77sFfmUOCW8AehirJSw" /></Parameters></Action></Actions></Shape>
-                </Shapes>
-                <Shapes IsResourceLayer="true" Name="Resources" />
-                <ConditionTagSet />
-            </Shapes>
-            <ActionShapes>
-                <ActionShapes>
-                    <Shape Type="Polygon" EndTime="1" ShapeTimeSpan="10000" Coordinates="639,75,617,27,701,59,719,16,735,56,753,18,771,58,859,12,837,57,889,33,849,69,883,82,855,96,895,125,857,146,891,195,821,186,791,230,779,183,725,238,693,194,637,229,647,177,593,206,641,165,555.5,119" Label="Polygon 4" Id="V-e77sFfmUOCW8AehirJSw" BackgroundColor="Transparent" BackgroundColorAlt="#ffd700" BackgroundType="GradientNWSE" LineWidth="5px" LineColor="#ffa500">
-                        <KeyFrames />
-                        <Masks />
-                        <VisualStates />
-                        <Actions />
-                    </Shape>
-                </ActionShapes>
-            </ActionShapes>
-            <AFrames />
-            <Sounds />
-        </Frame>
-        <Frame Id="SpcWXQHqx0-ej7X9uY_3PA" Type="Rectangle" EndTime="1" ShapeTimeSpan="10000">
-            <Shapes Type="Image" EndTime="1" ShapeTimeSpan="10000">
-                <Shapes />
-                <Shapes IsResourceLayer="true" Name="Resources" />
-                <ConditionTagSet />
-            </Shapes>
-            <ActionShapes>
-                <ActionShapes />
-            </ActionShapes>
-            <AFrames />
-            <Sounds />
-        </Frame>
         <Frame Id="veX0LtUjcU6efkiRvzxRzw" Type="Rectangle" EndTime="1" ShapeTimeSpan="14900" ComputedWidth="900" ComputedHeight="600" Name="testing" TimeSpan="14900">
             <Shapes Type="Image" EndTime="1" ShapeTimeSpan="14900">
                 <Shapes>
@@ -2272,7 +2212,7 @@
                         <VisualStates />
                         <Actions />
                     </Shape>
-                    <Shape Type="Oval" EndTime="1.691141" ShapeTimeSpan="14600" X="302" Y="228" Width="276.07" Height="276.071" TipX="0" TipY="21" Label="Oval 13" Id="w3bTVHs51U2Xm6iIJcOK_w" LineColor="#000000" LineWidth="2px" BackgroundColor="Transparent" BackgroundColorAlt="Transparent" HiddenInEditor="false" LockedInEditor="false" StartTime="0.7112752">
+                    <Shape Type="Oval" EndTime="1.691141" ShapeTimeSpan="14600" X="302" Y="228" Width="276.07" Height="276.071" TipX="0" TipY="21" Label="Oval 13" Id="w3bTVHs51U2Xm6iIJcOK_w" LineColor="#00ff00" LineWidth="2px" BackgroundColor="Transparent" BackgroundColorAlt="Transparent" HiddenInEditor="false" LockedInEditor="false" StartTime="0.7112752" ShadowColor="#3cb371">
                         <KeyFrames>
                             <KeyFrame TargetProperty="Rotation" TargetValue="0" TargetTimeMS="10620" />
                             <KeyFrame TargetProperty="Position" TargetValue="302,228" InValue="282,208" OutValue="322,248" TargetTimeMS="10620" />
@@ -2402,13 +2342,852 @@
                         <VisualStates />
                         <Actions />
                     </Shape>
-                    <Shape Type="Polygon" EndTime="0.2213423" ShapeTimeSpan="298" Coordinates="415,500.98,342.5,440.96,286.5,413.96,243.5,412.96,220.5,422.96,261,444,280,448,295,460,285,463,221.5,455.96,251.5,468.96,264,482,202.5,502.96,269,502.98" Label="Polygon 19" StartTime="0.2013423" Id="9Ecx_yxuqUerG55VU_Z4Ng" BackgroundColor="#d2b48c" BackgroundColorAlt="#d2b48c">
+                    <Shape Type="Polygon" EndTime="0.2213423" ShapeTimeSpan="1698" Coordinates="415,500.98,342.5,440.96,286.5,413.96,243.5,412.96,220.5,422.96,261,444,280,448,295,460,285,463,221.5,455.96,251.5,468.96,264,482,202.5,502.96,269,502.98" Label="Polygon 19" StartTime="0.1073826" Id="9Ecx_yxuqUerG55VU_Z4Ng" BackgroundColor="#d2b48c" BackgroundColorAlt="#d2b48c">
                         <KeyFrames />
                         <Masks />
                         <VisualStates />
                         <Actions />
                     </Shape>
                     <Shape Type="Oval" EndTime="0.254698" ShapeTimeSpan="198" X="261" Y="377" Width="10" Height="103" TipX="0" TipY="21" Label="Oval 26" StartTime="0.2414094" Id="HlkLQdhHcEyuArdnY6g5BQ" Left="261" Right="629" Top="377" Bottom="120" LineWidth="0px" BackgroundColor="#8b4513" BackgroundColorAlt="#8b4513" Rotation="-46">
+                        <KeyFrames />
+                        <Masks />
+                        <VisualStates />
+                        <Actions />
+                    </Shape>
+                </Shapes>
+                <Shapes IsResourceLayer="true" Name="Resources" />
+                <ConditionTagSet />
+            </Shapes>
+            <ActionShapes>
+                <ActionShapes />
+            </ActionShapes>
+            <AFrames />
+            <Sounds />
+        </Frame>
+        <Frame Type="Rectangle" EndTime="1" ShapeTimeSpan="10000" ComputedWidth="900" ComputedHeight="600" Name="testing - JUST HEAD" Id="h9iGup0k40C3YxWzstyFSg">
+            <Shapes Type="Image" EndTime="1" ShapeTimeSpan="10000">
+                <Shapes>
+                    <Shape Type="Group" LineWidth="0" TimeSpanned="False" X="366" Y="94" Width="157" Height="190" ShapeTimeSpan="10000" Id="eIcf4yd97kWyTD1qn8-S1g" Label="Shape Group 0">
+                        <Shape Type="Rectangle" EndTime="1" ShapeTimeSpan="10000" X="89" Y="10" Width="4" Height="30" TipX="0" TipY="21" Label="HEAD - thick short antenna" Id="OL_XT890ykaia1qz1ISRUQ" BackgroundColor="#000000" BackgroundColorAlt="#000000">
+                            <KeyFrames />
+                            <Masks />
+                            <VisualStates />
+                            <Actions />
+                        </Shape>
+                        <Shape Type="Rectangle" EndTime="1" ShapeTimeSpan="10000" X="104" Y="0" Width="2" Height="44" TipX="0" TipY="21" Label="HEAD - thin tall antenna" Id="zEu4S_z1lk2hm4ZtqCq7Xw" LineWidth="0px" BackgroundColor="#000000" BackgroundColorAlt="#000000">
+                            <KeyFrames />
+                            <Masks />
+                            <VisualStates />
+                            <Actions />
+                        </Shape>
+                        <Shape Type="Oval" EndTime="1" ShapeTimeSpan="10000" X="0" Y="33" Width="157.7547" Height="157.7549" TipX="0" TipY="21" Label="HEAD - DOME" Id="xnSTNAzWNEWt6FwqcWx_tQ" LineColor="#000000" LineWidth="3px" BackgroundColor="#eaebe3" BackgroundColorAlt="#eaebe3">
+                            <KeyFrames />
+                            <Masks>
+                                <ClipMask Type="Rectangle" EndTime="0" ShapeTimeSpan="10000" MaskType="Clip" Id="CqBmw8z_ukyXtkNeA5xzBg" Height="0.5689516" Label="Rectangle 0">
+                                    <KeyFrames />
+                                    <Masks />
+                                </ClipMask>
+                            </Masks>
+                            <VisualStates />
+                            <Actions />
+                        </Shape>
+                        <Shape Type="Polygon" EndTime="1" ShapeTimeSpan="10000" Coordinates="6,124.32,21,135.6533,136,136,151,124.6533" Label="HEAD - Underneath dome" Id="XDLoKrVOzkGDhvk9mkU0Lw" BackgroundColor="#ffffff" BackgroundColorAlt="#808080" LineWidth="3px" BackgroundType="GradientNS">
+                            <KeyFrames />
+                            <Masks />
+                            <VisualStates />
+                            <Actions />
+                        </Shape>
+                        <Shape Type="Oval" EndTime="1" ShapeTimeSpan="10000" X="34" Y="60" Width="34" Height="34" TipX="0" TipY="21" Label="HEAD - big eye" Id="7EKljRi560Ky4SrJdt6KlQ" BackgroundColor="#000000" BackgroundColorAlt="#000000" HiddenInEditor="false">
+                            <KeyFrames />
+                            <Masks />
+                            <VisualStates />
+                            <Actions />
+                        </Shape>
+                        <Shape Type="Polygon" EndTime="1" ShapeTimeSpan="10000" Coordinates="28.6,74.8,28,116.24,97.5,116.24,98,96.99" Label="HEAD - eyes container bottom" Id="z82-wMiqbk2uBwFw6Vx0vw" LockedInEditor="false" HiddenInEditor="false">
+                            <KeyFrames />
+                            <Masks>
+                                <ClipMask Type="Rectangle" EndTime="0" ShapeTimeSpan="10000" MaskType="Clip" Id="qr6sIHt0ZEin3wPNEadQgQ" Height="0.8975558" Y="0.1024442" Width="1.103053" X="-0.1030534" Label="Rectangle 0">
+                                    <KeyFrames />
+                                    <Masks />
+                                </ClipMask>
+                            </Masks>
+                            <VisualStates />
+                            <Actions />
+                        </Shape>
+                        <Shape Type="Oval" EndTime="1" ShapeTimeSpan="10000" X="67" Y="84" Width="31" Height="31" TipX="0" TipY="21" Label="HEAD - small eye boundary" Id="IP-jpput_U-V7F6qqycfLg" BackgroundColor="#eaebe3" BackgroundColorAlt="#eaebe3" LockedInEditor="false" HiddenInEditor="false">
+                            <KeyFrames />
+                            <Masks />
+                            <VisualStates />
+                            <Actions />
+                        </Shape>
+                        <Shape Type="Oval" EndTime="1" ShapeTimeSpan="10000" X="73" Y="89" Width="19" Height="19" TipX="0" TipY="21" Label="HEAD - small eye container" Id="LitbUxFxBUShxdHquq6ONQ" BackgroundColor="#eaebe3" BackgroundColorAlt="#eaebe3">
+                            <KeyFrames />
+                            <Masks />
+                            <VisualStates />
+                            <Actions />
+                        </Shape>
+                        <Shape Type="Oval" EndTime="1" ShapeTimeSpan="10000" X="76" Y="92" Width="12" Height="12" TipX="0" TipY="21" Label="HEAD - small eye" Id="YBEhoG_8vEa0PA9fiwq_Vg" BackgroundColor="#000000" BackgroundColorAlt="#000000">
+                            <KeyFrames />
+                            <Masks />
+                            <VisualStates />
+                            <Actions />
+                        </Shape>
+                        <Shape Type="Polygon" EndTime="1" ShapeTimeSpan="10000" Coordinates="39,48,121,48,109,42,50.8889,42.1067" Label="HEAD - gray line above the big eye" Id="q-0nzP1otkqPkzVdLNnJbA" BackgroundColor="#808080" BackgroundColorAlt="#808080" LineWidth="0px" HiddenInEditor="false">
+                            <KeyFrames />
+                            <Masks />
+                            <VisualStates />
+                            <Actions />
+                        </Shape>
+                        <Shape Type="Oval" EndTime="1" ShapeTimeSpan="10000" X="28" Y="54" Width="46" Height="46" TipX="0" TipY="21" Label="HEAD - big eye container" Id="LQXOs3V6aUKm5KJfswrE_A" HiddenInEditor="false">
+                            <KeyFrames />
+                            <Masks>
+                                <ClipMask Type="Rectangle" EndTime="0" ShapeTimeSpan="10000" MaskType="Clip" Id="2oOZrneXa0WeUIrUZwTNvg" Width="1" Label="Rectangle 0">
+                                    <KeyFrames />
+                                    <Masks />
+                                </ClipMask>
+                            </Masks>
+                            <VisualStates />
+                            <Actions />
+                        </Shape>
+                        <Shape Type="Polygon" EndTime="1" ShapeTimeSpan="10000" Coordinates="58,100.8,59.5555,115.44,97.3333,115.44,97.4445,98.7733,87,111.8,87,111.8,73,108.8,70,96.8,83,84.5511,73.3333,84.8844,73,76.6622,60.5555,93.7733,42.4445,96.6622,28.5555,76.6622,28.5555,104.5511" Label="HEAD - Eyes fill in" Id="b0opg-8WTE234YurTc-diA" BackgroundColor="#eaebe3" BackgroundColorAlt="#eaebe3" LineWidth="0px" LockedInEditor="false" HiddenInEditor="false">
+                            <KeyFrames />
+                            <Masks />
+                            <VisualStates />
+                            <Actions />
+                        </Shape>
+                        <Shape Type="Polyline" EndTime="1" ShapeTimeSpan="10000" Coordinates="84.2222,84.2178,73.5555,83.5511" Label="HEAD - horizontal line (CHECK BUG)" Id="_n78wHCrgEOegsSUo2mEsg" ArrowHeads="none" LineWidth="1px">
+                            <KeyFrames />
+                            <Masks />
+                            <VisualStates />
+                            <Actions />
+                        </Shape>
+                        <Shape Type="Polyline" EndTime="1" ShapeTimeSpan="10000" Coordinates="59,101,12,101,12,92,28.1111,91.9956" Label="HEAD - under big eye lines" Id="bOGtjK3JwEe_Tgepcyru2g" ArrowHeads="none">
+                            <KeyFrames />
+                            <Masks />
+                            <VisualStates />
+                            <Actions />
+                        </Shape>
+                        <Shape Type="Rectangle" EndTime="1" ShapeTimeSpan="10000" X="3" Y="117" Width="151.3333" Height="5.320007" TipX="0" TipY="21" Label="HEAD - gray line under eyes" Id="dIH_eAEs0UCstl6SvwkWwg" BackgroundColor="#808080" BackgroundColorAlt="#808080" LineWidth="0px">
+                            <KeyFrames />
+                            <Masks />
+                            <VisualStates />
+                            <Actions />
+                        </Shape>
+                        <Shape Type="Polygon" EndTime="1" ShapeTimeSpan="10000" Coordinates="63,54.9956,70.1111,60.44,134.7778,60,129.5238,55" Label="HEAD - orange strip right of big eye" Id="NKTGB5_2NE2VnmeYg5-UwA" BackgroundColor="#f5851c" BackgroundColorAlt="#f5851c" LineWidth="0px">
+                            <KeyFrames />
+                            <Masks />
+                            <VisualStates />
+                            <Actions />
+                        </Shape>
+                        <Shape Type="Polygon" EndTime="1" ShapeTimeSpan="10000" Coordinates="29.6667,55.1067,38.8,55,34.4706,59.5546,25,59.44" Label="HEAD - orange strip left of big eye" Id="0GObcpxlE0qEkFxVjYjiYw" LineWidth="0px" BackgroundColor="#f5851c" BackgroundColorAlt="#f5851c">
+                            <KeyFrames />
+                            <Masks />
+                            <VisualStates />
+                            <Actions />
+                        </Shape>
+                        <Shape Type="Polyline" EndTime="1" ShapeTimeSpan="10000" Coordinates="83,84,83,84,70.3333,84.3289,68,88,67,90,65,92,64,93,63,94,61,95,61,95,59,96,59.1111,116.3289" Label="HEAD - eyes divider NEW" Id="Y209JIq5gUWQPOkkmc-ncw" ArrowHeads="none" LockedInEditor="false" HiddenInEditor="false">
+                            <KeyFrames />
+                            <Masks />
+                            <VisualStates />
+                            <Actions />
+                        </Shape>
+                        <Shape Type="Group" LineWidth="0" TimeSpanned="False" X="3" Y="102" Width="149" Height="11" ShapeTimeSpan="10000" Id="0I32_H8V40SAg_heWIWe7w" Label="HEAD - orange stripe elements">
+                            <Shape Type="Rectangle" EndTime="1" ShapeTimeSpan="10000" X="0" Y="0" Width="4.999259" Height="11.99957" TipX="0" TipY="21" Label="Rectangle 0" Id="nUfbZyPUDU67rshbW6_ndg" BackgroundColor="#f5851c" BackgroundColorAlt="#f5851c" LineColor="#f5851c" Anchors="Left">
+                                <KeyFrames />
+                                <Masks />
+                                <VisualStates />
+                                <Actions />
+                            </Shape>
+                            <Shape Type="Rectangle" EndTime="1" ShapeTimeSpan="10000" X="0" Y="0" Width="4.999259" Height="11.99957" TipX="0" TipY="21" Label="Rectangle 1" Id="LuliGEP0Tk6Xoxf-CUSNWw" BackgroundColor="#f5851c" BackgroundColorAlt="#f5851c" LineColor="#f5851c">
+                                <KeyFrames />
+                                <Masks />
+                                <VisualStates />
+                                <Actions />
+                            </Shape>
+                            <Shape Type="Rectangle" EndTime="1" ShapeTimeSpan="10000" X="87" Y="6" Width="5.666656" Height="5.332623" TipX="0" TipY="21" Label="Rectangle 2" Id="OIr2VdEKa02eZs9OgVH6Yg" BackgroundColor="#f5851c" BackgroundColorAlt="#f5851c" LineColor="#f5851c">
+                                <KeyFrames />
+                                <Masks />
+                                <VisualStates />
+                                <Actions />
+                            </Shape>
+                            <Shape Type="Rectangle" EndTime="1" ShapeTimeSpan="10000" X="95" Y="0" Width="14" Height="11.99957" TipX="0" TipY="21" Label="Rectangle 3" Id="mv3GKVJcsECvjODQFlkqmA" BackgroundColor="#f5851c" BackgroundColorAlt="#f5851c" LineColor="#f5851c">
+                                <KeyFrames />
+                                <Masks />
+                                <VisualStates />
+                                <Actions />
+                            </Shape>
+                            <Shape Type="Rectangle" EndTime="1" ShapeTimeSpan="10000" X="118" Y="0" Width="4.999259" Height="11.99957" TipX="0" TipY="21" Label="Rectangle 4" Id="nXlcVb7x7kO9Ti8PNlqqTA" BackgroundColor="#f5851c" BackgroundColorAlt="#f5851c" LineColor="#f5851c">
+                                <KeyFrames />
+                                <Masks />
+                                <VisualStates />
+                                <Actions />
+                            </Shape>
+                            <Shape Type="Rectangle" EndTime="1" ShapeTimeSpan="10000" X="126" Y="0" Width="4.999259" Height="11.99957" TipX="0" TipY="21" Label="Rectangle 5" Id="aAQ5rM5SA0ip-WyS4f0DVg" BackgroundColor="#f5851c" BackgroundColorAlt="#f5851c" LineColor="#f5851c">
+                                <KeyFrames />
+                                <Masks />
+                                <VisualStates />
+                                <Actions />
+                            </Shape>
+                            <Shape Type="Rectangle" EndTime="1" ShapeTimeSpan="10000" X="134" Y="0" Width="15.66669" Height="11.99957" TipX="0" TipY="21" Label="Rectangle 6" Id="FlKK-Uh0Dkuonj2NpKRXBg" BackgroundColor="#f5851c" BackgroundColorAlt="#f5851c" LineColor="#f5851c">
+                                <KeyFrames />
+                                <Masks />
+                                <VisualStates />
+                                <Actions />
+                            </Shape>
+                            <KeyFrames />
+                            <Masks />
+                            <VisualStates />
+                            <Actions Type="Rectangle" EndTime="1" ShapeTimeSpan="10000" Label="Rectangle 7" Id="EMpV6ZqDjUyFskEfiCNaAw">
+                                <KeyFrames />
+                                <Masks />
+                            </Actions>
+                        </Shape>
+                        <KeyFrames />
+                        <Masks />
+                        <VisualStates />
+                        <Actions Type="Rectangle" EndTime="1" ShapeTimeSpan="10000" Label="Rectangle 3" Id="JH_wCruBy0SP1fKra0hhkQ">
+                            <KeyFrames />
+                            <Masks />
+                        </Actions>
+                    </Shape>
+                    <Shape Type="Group" LineWidth="0" TimeSpanned="False" X="536.3333" Y="168.3333" Width="157" Height="190" ShapeTimeSpan="10000" Id="0ACUkDiht0CKZw08hRYoew" Label="Shape Group 4" Left="536.3333" Right="206.6667" Top="168.3333" Bottom="241.6667">
+                        <Shape Type="Rectangle" EndTime="1" ShapeTimeSpan="10000" X="82" Y="10" Width="4" Height="30" TipX="0" TipY="21" Label="HEAD - thick short antenna" Id="OL_XT890ykaia1qz1ISRUQ" BackgroundColor="#000000" BackgroundColorAlt="#000000" LockedInEditor="false" HiddenInEditor="false">
+                            <KeyFrames />
+                            <Masks />
+                            <VisualStates />
+                            <Actions />
+                        </Shape>
+                        <Shape Type="Rectangle" EndTime="1" ShapeTimeSpan="10000" X="79" Y="0" Width="2" Height="44" TipX="0" TipY="21" Label="HEAD - thin tall antenna" Id="zEu4S_z1lk2hm4ZtqCq7Xw" LineWidth="0px" BackgroundColor="#000000" BackgroundColorAlt="#000000" LockedInEditor="false" HiddenInEditor="false">
+                            <KeyFrames />
+                            <Masks />
+                            <VisualStates />
+                            <Actions />
+                        </Shape>
+                        <Shape Type="Oval" EndTime="1" ShapeTimeSpan="10000" X="0" Y="33" Width="157.7547" Height="157.7549" TipX="0" TipY="21" Label="HEAD - DOME" Id="xnSTNAzWNEWt6FwqcWx_tQ" LineColor="#000000" LineWidth="3px" BackgroundColor="#eaebe3" BackgroundColorAlt="#eaebe3" LockedInEditor="false">
+                            <KeyFrames />
+                            <Masks>
+                                <ClipMask Type="Rectangle" EndTime="0" ShapeTimeSpan="10000" MaskType="Clip" Id="CqBmw8z_ukyXtkNeA5xzBg" Height="0.5689516" Label="Rectangle 0">
+                                    <KeyFrames />
+                                    <Masks />
+                                </ClipMask>
+                            </Masks>
+                            <VisualStates />
+                            <Actions />
+                        </Shape>
+                        <Shape Type="Polygon" EndTime="1" ShapeTimeSpan="10000" Coordinates="6,124.32,21,135.6533,136,136,151,124.6533" Label="HEAD - Underneath dome" Id="XDLoKrVOzkGDhvk9mkU0Lw" BackgroundColor="#ffffff" BackgroundColorAlt="#808080" LineWidth="3px" BackgroundType="GradientNS" LockedInEditor="false">
+                            <KeyFrames />
+                            <Masks />
+                            <VisualStates />
+                            <Actions />
+                        </Shape>
+                        <Shape Type="Polygon" EndTime="1" ShapeTimeSpan="10000" Coordinates="39,48,121,48,109,42,50.8889,42.1067" Label="HEAD - gray line above the big eye" Id="q-0nzP1otkqPkzVdLNnJbA" BackgroundColor="#808080" BackgroundColorAlt="#808080" LineWidth="0px" HiddenInEditor="false" LockedInEditor="false">
+                            <KeyFrames />
+                            <Masks />
+                            <VisualStates />
+                            <Actions />
+                        </Shape>
+                        <Shape Type="Rectangle" EndTime="1" ShapeTimeSpan="10000" X="3" Y="117" Width="151.3333" Height="5.320007" TipX="0" TipY="21" Label="HEAD - gray line under eyes" Id="dIH_eAEs0UCstl6SvwkWwg" BackgroundColor="#808080" BackgroundColorAlt="#808080" LineWidth="0px" LockedInEditor="false">
+                            <KeyFrames />
+                            <Masks />
+                            <VisualStates />
+                            <Actions />
+                        </Shape>
+                        <Shape Type="Polygon" EndTime="1" ShapeTimeSpan="10000" Coordinates="26.6667,56.6667,20.6667,61.6667,73,62,76.3333,57" Label="HEAD - orange strip right of big eye" Id="NKTGB5_2NE2VnmeYg5-UwA" BackgroundColor="#f5851c" BackgroundColorAlt="#f5851c" LineWidth="0px" LockedInEditor="false">
+                            <KeyFrames />
+                            <Masks />
+                            <VisualStates />
+                            <Actions />
+                        </Shape>
+                        <Shape Type="Polygon" EndTime="1" ShapeTimeSpan="10000" Coordinates="109.6667,57.1121,132.6667,57,137,61.6667,113.6667,61.5575" Label="HEAD - orange strip left of big eye" Id="0GObcpxlE0qEkFxVjYjiYw" LineWidth="0px" BackgroundColor="#f5851c" BackgroundColorAlt="#f5851c" LockedInEditor="false" Rotation="180">
+                            <KeyFrames />
+                            <Masks />
+                            <VisualStates />
+                            <Actions />
+                        </Shape>
+                        <Shape Type="Group" LineWidth="0" TimeSpanned="False" X="53" Y="54" Width="86" Height="62" ShapeTimeSpan="10000" Id="UyEaKpJjXEGCPQQRDpowiQ" Label="Shape Group 5" HiddenInEditor="false">
+                            <Shape Type="Oval" EndTime="1" ShapeTimeSpan="10000" X="22" Y="6" Width="34" Height="34" TipX="0" TipY="21" Label="HEAD - big eye" Id="7EKljRi560Ky4SrJdt6KlQ" BackgroundColor="#000000" BackgroundColorAlt="#000000" HiddenInEditor="false">
+                                <KeyFrames />
+                                <Masks />
+                                <VisualStates />
+                                <Actions />
+                            </Shape>
+                            <Shape Type="Polygon" EndTime="1" ShapeTimeSpan="10000" Coordinates="16.6,20.8,16,62.24,85.5,62.24,86,42.99" Label="HEAD - eyes container bottom" Id="z82-wMiqbk2uBwFw6Vx0vw" LockedInEditor="false" HiddenInEditor="false">
+                                <KeyFrames />
+                                <Masks>
+                                    <ClipMask Type="Rectangle" EndTime="0" ShapeTimeSpan="10000" MaskType="Clip" Id="qr6sIHt0ZEin3wPNEadQgQ" Height="0.8975558" Y="0.1024442" Width="1.103053" X="-0.1030534" Label="Rectangle 0">
+                                        <KeyFrames />
+                                        <Masks />
+                                    </ClipMask>
+                                </Masks>
+                                <VisualStates />
+                                <Actions />
+                            </Shape>
+                            <Shape Type="Oval" EndTime="1" ShapeTimeSpan="10000" X="55" Y="30" Width="31" Height="31" TipX="0" TipY="21" Label="HEAD - small eye boundary" Id="IP-jpput_U-V7F6qqycfLg" BackgroundColor="#eaebe3" BackgroundColorAlt="#eaebe3" LockedInEditor="false" HiddenInEditor="false">
+                                <KeyFrames />
+                                <Masks />
+                                <VisualStates />
+                                <Actions />
+                            </Shape>
+                            <Shape Type="Oval" EndTime="1" ShapeTimeSpan="10000" X="61" Y="35" Width="19" Height="19" TipX="0" TipY="21" Label="HEAD - small eye container" Id="LitbUxFxBUShxdHquq6ONQ" BackgroundColor="#eaebe3" BackgroundColorAlt="#eaebe3">
+                                <KeyFrames />
+                                <Masks />
+                                <VisualStates />
+                                <Actions />
+                            </Shape>
+                            <Shape Type="Oval" EndTime="1" ShapeTimeSpan="10000" X="64" Y="38" Width="12" Height="12" TipX="0" TipY="21" Label="HEAD - small eye" Id="YBEhoG_8vEa0PA9fiwq_Vg" BackgroundColor="#000000" BackgroundColorAlt="#000000">
+                                <KeyFrames />
+                                <Masks />
+                                <VisualStates />
+                                <Actions />
+                            </Shape>
+                            <Shape Type="Oval" EndTime="1" ShapeTimeSpan="10000" X="16" Y="0" Width="46" Height="46" TipX="0" TipY="21" Label="HEAD - big eye container" Id="LQXOs3V6aUKm5KJfswrE_A" HiddenInEditor="false">
+                                <KeyFrames />
+                                <Masks>
+                                    <ClipMask Type="Rectangle" EndTime="0" ShapeTimeSpan="10000" MaskType="Clip" Id="2oOZrneXa0WeUIrUZwTNvg" Width="1" Label="Rectangle 0">
+                                        <KeyFrames />
+                                        <Masks />
+                                    </ClipMask>
+                                </Masks>
+                                <VisualStates />
+                                <Actions />
+                            </Shape>
+                            <Shape Type="Polygon" EndTime="1" ShapeTimeSpan="10000" Coordinates="46,46.8,47.5555,61.44,85.3333,61.44,85.4445,44.7733,75,57.8,75,57.8,61,54.8,58,42.8,71,30.5511,61.3333,30.8844,61,22.6622,48.5555,39.7733,30.4445,42.6622,16.5555,22.6622,16.5555,50.5511" Label="HEAD - Eyes fill in" Id="b0opg-8WTE234YurTc-diA" BackgroundColor="#eaebe3" BackgroundColorAlt="#eaebe3" LineWidth="0px" LockedInEditor="false" HiddenInEditor="false">
+                                <KeyFrames />
+                                <Masks />
+                                <VisualStates />
+                                <Actions />
+                            </Shape>
+                            <Shape Type="Polyline" EndTime="1" ShapeTimeSpan="10000" Coordinates="72.2222,30.2178,61.5555,29.5511" Label="HEAD - horizontal line (CHECK BUG)" Id="_n78wHCrgEOegsSUo2mEsg" ArrowHeads="none" LineWidth="1px">
+                                <KeyFrames />
+                                <Masks />
+                                <VisualStates />
+                                <Actions />
+                            </Shape>
+                            <Shape Type="Polyline" EndTime="1" ShapeTimeSpan="10000" Coordinates="47,47,0,47,0,38,16.1111,37.9956" Label="HEAD - under big eye lines" Id="bOGtjK3JwEe_Tgepcyru2g" ArrowHeads="none">
+                                <KeyFrames />
+                                <Masks />
+                                <VisualStates />
+                                <Actions />
+                            </Shape>
+                            <Shape Type="Polyline" EndTime="1" ShapeTimeSpan="10000" Coordinates="71,30,71,30,58.3333,30.3289,56,34,55,36,53,38,52,39,51,40,49,41,49,41,47,42,47.1111,62.3289" Label="HEAD - eyes divider NEW" Id="Y209JIq5gUWQPOkkmc-ncw" ArrowHeads="none" LockedInEditor="false" HiddenInEditor="false">
+                                <KeyFrames />
+                                <Masks />
+                                <VisualStates />
+                                <Actions />
+                            </Shape>
+                            <KeyFrames />
+                            <Masks />
+                            <VisualStates />
+                            <Actions Type="Rectangle" EndTime="1" ShapeTimeSpan="10000" Label="Rectangle 0" Id="vmWjAGlxiEqaYqAGjveHdg">
+                                <KeyFrames />
+                                <Masks />
+                            </Actions>
+                        </Shape>
+                        <Shape Type="Group" LineWidth="0" TimeSpanned="False" X="132" Y="102" Width="22" Height="11" ShapeTimeSpan="10000" Id="_jywiwDUDk6NA_vHP5oLPw" Label="Shape Group 1">
+                            <Shape Type="Rectangle" EndTime="1" ShapeTimeSpan="10000" X="0" Y="6" Width="5.666656" Height="5.332623" TipX="0" TipY="21" Label="Rectangle 2" Id="OIr2VdEKa02eZs9OgVH6Yg" BackgroundColor="#f5851c" BackgroundColorAlt="#f5851c" LineColor="#f5851c">
+                                <KeyFrames />
+                                <Masks />
+                                <VisualStates />
+                                <Actions />
+                            </Shape>
+                            <Shape Type="Rectangle" EndTime="1" ShapeTimeSpan="10000" X="8" Y="0" Width="14" Height="11.99957" TipX="0" TipY="21" Label="Rectangle 3" Id="mv3GKVJcsECvjODQFlkqmA" BackgroundColor="#f5851c" BackgroundColorAlt="#f5851c" LineColor="#f5851c">
+                                <KeyFrames />
+                                <Masks />
+                                <VisualStates />
+                                <Actions />
+                            </Shape>
+                            <KeyFrames />
+                            <Masks />
+                            <VisualStates />
+                        </Shape>
+                        <Shape Type="Group" LineWidth="0" TimeSpanned="False" X="2" Y="102" Width="45.5" Height="11" ShapeTimeSpan="10000" Id="BFPQfAvGA0iK4lplWTQcVA" Label="Shape Group 2">
+                            <Shape Type="Rectangle" EndTime="1" ShapeTimeSpan="10000" X="0" Y="0" Width="20.30003" Height="11.99957" TipX="0" TipY="21" Label="Rectangle 1" Id="LuliGEP0Tk6Xoxf-CUSNWw" BackgroundColor="#f5851c" BackgroundColorAlt="#f5851c" LineColor="#f5851c" Right="44.69997" Bottom="-0.9995699">
+                                <KeyFrames />
+                                <Masks />
+                                <VisualStates />
+                                <Actions />
+                            </Shape>
+                            <Shape Type="Rectangle" EndTime="1" ShapeTimeSpan="10000" X="23.79996" Y="0" Width="3.499479" Height="11.99957" TipX="0" TipY="21" Label="Rectangle 4" Id="nXlcVb7x7kO9Ti8PNlqqTA" BackgroundColor="#f5851c" BackgroundColorAlt="#f5851c" LineColor="#f5851c" Left="23.79996" Right="37.70056" Bottom="-0.9995699">
+                                <KeyFrames />
+                                <Masks />
+                                <VisualStates />
+                                <Actions />
+                            </Shape>
+                            <Shape Type="Rectangle" EndTime="1" ShapeTimeSpan="10000" X="29.40003" Y="0" Width="3.499479" Height="11.99957" TipX="0" TipY="21" Label="Rectangle 5" Id="aAQ5rM5SA0ip-WyS4f0DVg" BackgroundColor="#f5851c" BackgroundColorAlt="#f5851c" LineColor="#f5851c" Left="29.40003" Right="32.10049" Bottom="-0.9995699">
+                                <KeyFrames />
+                                <Masks />
+                                <VisualStates />
+                                <Actions />
+                            </Shape>
+                            <Shape Type="Rectangle" EndTime="1" ShapeTimeSpan="10000" X="35.00001" Y="0" Width="10.96665" Height="11.99957" TipX="0" TipY="21" Label="Rectangle 6" Id="FlKK-Uh0Dkuonj2NpKRXBg" BackgroundColor="#f5851c" BackgroundColorAlt="#f5851c" LineColor="#f5851c" Left="35.00001" Right="19.03333" Bottom="-0.9995699">
+                                <KeyFrames />
+                                <Masks />
+                                <VisualStates />
+                                <Actions />
+                            </Shape>
+                            <KeyFrames />
+                            <Masks />
+                            <VisualStates />
+                        </Shape>
+                        <KeyFrames />
+                        <Masks />
+                        <VisualStates />
+                    </Shape>
+                    <Shape Type="Group" LineWidth="0" TimeSpanned="False" X="715" Y="91" Width="164" Height="190" ShapeTimeSpan="10000" Id="Kgdc6kNbOkmmPFKdhz0DvA" Label="Shape Group 2">
+                        <Shape Type="Rectangle" EndTime="1" ShapeTimeSpan="10000" X="72" Y="10" Width="4" Height="30" TipX="0" TipY="21" Label="HEAD - thick short antenna" Id="OL_XT890ykaia1qz1ISRUQ" BackgroundColor="#000000" BackgroundColorAlt="#000000">
+                            <KeyFrames />
+                            <Masks />
+                            <VisualStates />
+                            <Actions />
+                        </Shape>
+                        <Shape Type="Rectangle" EndTime="1" ShapeTimeSpan="10000" X="60" Y="0" Width="2" Height="44" TipX="0" TipY="21" Label="HEAD - thin tall antenna" Id="zEu4S_z1lk2hm4ZtqCq7Xw" LineWidth="0px" BackgroundColor="#000000" BackgroundColorAlt="#000000">
+                            <KeyFrames />
+                            <Masks />
+                            <VisualStates />
+                            <Actions />
+                        </Shape>
+                        <Shape Type="Oval" EndTime="1" ShapeTimeSpan="10000" X="0" Y="33" Width="157.7547" Height="157.7549" TipX="0" TipY="21" Label="HEAD - DOME" Id="xnSTNAzWNEWt6FwqcWx_tQ" LineColor="#000000" LineWidth="3px" BackgroundColor="#eaebe3" BackgroundColorAlt="#eaebe3">
+                            <KeyFrames />
+                            <Masks>
+                                <ClipMask Type="Rectangle" EndTime="0" ShapeTimeSpan="10000" MaskType="Clip" Id="CqBmw8z_ukyXtkNeA5xzBg" Height="0.5689516" Label="Rectangle 0">
+                                    <KeyFrames />
+                                    <Masks />
+                                </ClipMask>
+                            </Masks>
+                            <VisualStates />
+                            <Actions />
+                        </Shape>
+                        <Shape Type="Polygon" EndTime="1" ShapeTimeSpan="10000" Coordinates="6,124.32,21,135.6533,136,136,151,124.6533" Label="HEAD - Underneath dome" Id="XDLoKrVOzkGDhvk9mkU0Lw" BackgroundColor="#ffffff" BackgroundColorAlt="#808080" LineWidth="3px" BackgroundType="GradientNS">
+                            <KeyFrames />
+                            <Masks />
+                            <VisualStates />
+                            <Actions />
+                        </Shape>
+                        <Shape Type="Oval" EndTime="1" ShapeTimeSpan="10000" X="140" Y="60" Width="17" Height="34" TipX="0" TipY="21" Label="HEAD - big eye" Id="7EKljRi560Ky4SrJdt6KlQ" BackgroundColor="#000000" BackgroundColorAlt="#000000" HiddenInEditor="false" Rotation="-24">
+                            <KeyFrames />
+                            <Masks>
+                                <ClipMask Type="Rectangle" EndTime="1" ShapeTimeSpan="10000" MaskType="Clip" Id="5xSf3pyDKUuaS1khAm6K0A" Width="1" X="0" Label="Rectangle 0">
+                                    <KeyFrames />
+                                    <Masks />
+                                </ClipMask>
+                            </Masks>
+                            <VisualStates />
+                            <Actions />
+                        </Shape>
+                        <Shape Type="Oval" EndTime="1" ShapeTimeSpan="10000" X="157" Y="95" Width="7.5" Height="12" TipX="0" TipY="21" Label="HEAD - small eye" Id="YBEhoG_8vEa0PA9fiwq_Vg" BackgroundColor="#000000" BackgroundColorAlt="#000000">
+                            <KeyFrames />
+                            <Masks />
+                            <VisualStates />
+                            <Actions />
+                        </Shape>
+                        <Shape Type="Polygon" EndTime="1" ShapeTimeSpan="10000" Coordinates="39,48,121,48,109,42,50.8889,42.1067" Label="HEAD - gray line above the big eye" Id="q-0nzP1otkqPkzVdLNnJbA" BackgroundColor="#808080" BackgroundColorAlt="#808080" LineWidth="0px" HiddenInEditor="false">
+                            <KeyFrames />
+                            <Masks />
+                            <VisualStates />
+                            <Actions />
+                        </Shape>
+                        <Shape Type="Rectangle" EndTime="1" ShapeTimeSpan="10000" X="3" Y="117" Width="151.3333" Height="5.320007" TipX="0" TipY="21" Label="HEAD - gray line under eyes" Id="dIH_eAEs0UCstl6SvwkWwg" BackgroundColor="#808080" BackgroundColorAlt="#808080" LineWidth="0px">
+                            <KeyFrames />
+                            <Masks />
+                            <VisualStates />
+                            <Actions />
+                        </Shape>
+                        <Shape Type="Polygon" EndTime="1" ShapeTimeSpan="10000" Coordinates="28,55.5,21.5,60.75,126.194,60.3433,128.2836,54.9702" Label="HEAD - orange strip right of big eye" Id="NKTGB5_2NE2VnmeYg5-UwA" BackgroundColor="#f5851c" BackgroundColorAlt="#f5851c" LineWidth="0px">
+                            <KeyFrames />
+                            <Masks />
+                            <VisualStates />
+                            <Actions />
+                        </Shape>
+                        <Shape Type="Rectangle" EndTime="1" ShapeTimeSpan="10000" X="3" Y="102" Width="69.76117" Height="11.99957" TipX="0" TipY="21" Label="Rectangle 1" Id="LuliGEP0Tk6Xoxf-CUSNWw" BackgroundColor="#f5851c" BackgroundColorAlt="#f5851c" LineColor="#f5851c">
+                            <KeyFrames />
+                            <Masks />
+                            <VisualStates />
+                            <Actions />
+                        </Shape>
+                        <Shape Type="Rectangle" EndTime="1" ShapeTimeSpan="10000" X="74" Y="102" Width="14" Height="11.99957" TipX="0" TipY="21" Label="Rectangle 3" Id="mv3GKVJcsECvjODQFlkqmA" BackgroundColor="#f5851c" BackgroundColorAlt="#f5851c" LineColor="#f5851c">
+                            <KeyFrames />
+                            <Masks />
+                            <VisualStates />
+                            <Actions />
+                        </Shape>
+                        <Shape Type="Rectangle" EndTime="1" ShapeTimeSpan="10000" X="97" Y="102" Width="4.999259" Height="11.99957" TipX="0" TipY="21" Label="Rectangle 4" Id="nXlcVb7x7kO9Ti8PNlqqTA" BackgroundColor="#f5851c" BackgroundColorAlt="#f5851c" LineColor="#f5851c">
+                            <KeyFrames />
+                            <Masks />
+                            <VisualStates />
+                            <Actions />
+                        </Shape>
+                        <Shape Type="Rectangle" EndTime="1" ShapeTimeSpan="10000" X="105" Y="102" Width="4.999259" Height="11.99957" TipX="0" TipY="21" Label="Rectangle 5" Id="aAQ5rM5SA0ip-WyS4f0DVg" BackgroundColor="#f5851c" BackgroundColorAlt="#f5851c" LineColor="#f5851c">
+                            <KeyFrames />
+                            <Masks />
+                            <VisualStates />
+                            <Actions />
+                        </Shape>
+                        <Shape Type="Rectangle" EndTime="1" ShapeTimeSpan="10000" X="113" Y="102" Width="15.66669" Height="11.99957" TipX="0" TipY="21" Label="Rectangle 6" Id="FlKK-Uh0Dkuonj2NpKRXBg" BackgroundColor="#f5851c" BackgroundColorAlt="#f5851c" LineColor="#f5851c">
+                            <KeyFrames />
+                            <Masks />
+                            <VisualStates />
+                            <Actions />
+                        </Shape>
+                        <Shape Type="Polygon" EndTime="1" ShapeTimeSpan="10000" Coordinates="134,56,131,59,129,66,129,72,133,79,140,88,143,94,145,101,145.597,115.2687,156,115,157,96,151,78,137,58" Label="Polygon 13" Id="mDwdVXVcuE6Io6xpTYLYrg" HiddenInEditor="false">
+                            <KeyFrames />
+                            <Masks />
+                            <VisualStates />
+                        </Shape>
+                        <Shape Type="Polyline" EndTime="1" ShapeTimeSpan="10000" Coordinates="159.9254,99.1492,128.7015,99.5,128.7015,90.5,140.5224,90.4925" Label="HEAD - under big eye lines" Id="bOGtjK3JwEe_Tgepcyru2g" ArrowHeads="none">
+                            <KeyFrames />
+                            <Masks>
+                            </Masks>
+                            <VisualStates />
+                            <Actions />
+                        </Shape>
+                        <Shape Type="Rectangle" EndTime="1" ShapeTimeSpan="10000" X="157" Y="92" Width="5.671692" Height="20.29851" TipX="0" TipY="21" Label="Rectangle 16" Id="502d3MjL7kyAT7l9osg7Wg" BackgroundColor="#eaebe3" BackgroundColorAlt="#eaebe3">
+                            <KeyFrames />
+                            <Masks />
+                            <VisualStates />
+                        </Shape>
+                        <KeyFrames />
+                        <Masks />
+                        <VisualStates />
+                    </Shape>
+                    <Shape Type="Group" LineWidth="0" TimeSpanned="False" X="180" Y="94" Width="167" Height="190" ShapeTimeSpan="10000" Id="l6sRzVrahky8wDr93Jo8Ag" Label="Shape Group 3">
+                        <Shape Type="Oval" EndTime="1" ShapeTimeSpan="10000" X="9" Y="60" Width="18.62963" Height="34" TipX="0" TipY="21" Label="HEAD - big eye" Id="7EKljRi560Ky4SrJdt6KlQ" BackgroundColor="#000000" BackgroundColorAlt="#000000" HiddenInEditor="false" Rotation="30">
+                            <KeyFrames />
+                            <Masks />
+                            <VisualStates />
+                            <Actions />
+                        </Shape>
+                        <Shape Type="Rectangle" EndTime="1" ShapeTimeSpan="10000" X="99" Y="10" Width="4" Height="30" TipX="0" TipY="21" Label="HEAD - thick short antenna" Id="OL_XT890ykaia1qz1ISRUQ" BackgroundColor="#000000" BackgroundColorAlt="#000000">
+                            <KeyFrames />
+                            <Masks />
+                            <VisualStates />
+                            <Actions />
+                        </Shape>
+                        <Shape Type="Oval" EndTime="1" ShapeTimeSpan="10000" X="10" Y="33" Width="157.7547" Height="157.7549" TipX="0" TipY="21" Label="HEAD - DOME" Id="xnSTNAzWNEWt6FwqcWx_tQ" LineColor="#000000" LineWidth="3px" BackgroundColor="#eaebe3" BackgroundColorAlt="#eaebe3">
+                            <KeyFrames />
+                            <Masks>
+                                <ClipMask Type="Rectangle" EndTime="0" ShapeTimeSpan="10000" MaskType="Clip" Id="CqBmw8z_ukyXtkNeA5xzBg" Height="0.5689516" Label="Rectangle 0">
+                                    <KeyFrames />
+                                    <Masks />
+                                </ClipMask>
+                            </Masks>
+                            <VisualStates />
+                            <Actions />
+                        </Shape>
+                        <Shape Type="Polygon" EndTime="1" ShapeTimeSpan="10000" Coordinates="16,124.32,31,135.6533,146,136,161,124.6533" Label="HEAD - Underneath dome" Id="XDLoKrVOzkGDhvk9mkU0Lw" BackgroundColor="#ffffff" BackgroundColorAlt="#808080" LineWidth="3px" BackgroundType="GradientNS">
+                            <KeyFrames />
+                            <Masks />
+                            <VisualStates />
+                            <Actions />
+                        </Shape>
+                        <Shape Type="Oval" EndTime="1" ShapeTimeSpan="10000" X="0" Y="92" Width="12" Height="12" TipX="0" TipY="21" Label="HEAD - small eye" Id="YBEhoG_8vEa0PA9fiwq_Vg" BackgroundColor="#000000" BackgroundColorAlt="#000000">
+                            <KeyFrames />
+                            <Masks />
+                            <VisualStates />
+                            <Actions />
+                        </Shape>
+                        <Shape Type="Polygon" EndTime="1" ShapeTimeSpan="10000" Coordinates="49,48,131,48,119,42,60.8889,42.1067" Label="HEAD - gray line above the big eye" Id="q-0nzP1otkqPkzVdLNnJbA" BackgroundColor="#808080" BackgroundColorAlt="#808080" LineWidth="0px" HiddenInEditor="false">
+                            <KeyFrames />
+                            <Masks />
+                            <VisualStates />
+                            <Actions />
+                        </Shape>
+                        <Shape Type="Rectangle" EndTime="1" ShapeTimeSpan="10000" X="13" Y="117" Width="151.3333" Height="5.320007" TipX="0" TipY="21" Label="HEAD - gray line under eyes" Id="dIH_eAEs0UCstl6SvwkWwg" BackgroundColor="#808080" BackgroundColorAlt="#808080" LineWidth="0px">
+                            <KeyFrames />
+                            <Masks />
+                            <VisualStates />
+                            <Actions />
+                        </Shape>
+                        <Shape Type="Polygon" EndTime="1" ShapeTimeSpan="10000" Coordinates="41.4478,53.8508,35.1791,58.6269,144.7778,60,139.5238,55" Label="HEAD - orange strip right of big eye" Id="NKTGB5_2NE2VnmeYg5-UwA" BackgroundColor="#f5851c" BackgroundColorAlt="#f5851c" LineWidth="0px">
+                            <KeyFrames />
+                            <Masks />
+                            <VisualStates />
+                            <Actions />
+                        </Shape>
+                        <Shape Type="Polyline" EndTime="1" ShapeTimeSpan="10000" Coordinates="14,90,18,94,20,99,19,107,19,115,11.4255,115.4894" ArrowHeads="none" Label="Polyline 0" Id="crFF7Jh2_kqXvTIPhwmeJA">
+                            <KeyFrames />
+                            <Masks />
+                            <VisualStates />
+                        </Shape>
+                        <Shape Type="Polygon" EndTime="1" ShapeTimeSpan="10000" Coordinates="12,91,7,91,5,106,11,107,12,96,13,91" Label="Polygon 4" Id="tI5QQ25guUeIQCKNQgPFpw" BackgroundColor="#eaebe3" BackgroundColorAlt="#eaebe3">
+                            <KeyFrames />
+                            <Masks />
+                            <VisualStates />
+                        </Shape>
+                        <Shape Type="Rectangle" EndTime="1" ShapeTimeSpan="10000" X="21" Y="102" Width="143" Height="12.02" TipX="0" TipY="21" Label="Rectangle 3" Id="EckU6d3qPEGI96hfjnDSLQ" BackgroundColor="#f5851c" BackgroundColorAlt="#f5851c" LineWidth="0px">
+                            <KeyFrames />
+                            <Masks />
+                            <VisualStates />
+                            <Actions />
+                        </Shape>
+                        <Shape Type="Rectangle" EndTime="1" ShapeTimeSpan="10000" X="88" Y="0" Width="2" Height="39" TipX="0" TipY="21" Label="HEAD - thin tall antenna" Id="zEu4S_z1lk2hm4ZtqCq7Xw" LineWidth="0px" BackgroundColor="#000000" BackgroundColorAlt="#000000">
+                            <KeyFrames />
+                            <Masks />
+                            <VisualStates />
+                            <Actions />
+                        </Shape>
+                        <KeyFrames />
+                        <Masks />
+                        <VisualStates />
+                        <Actions Type="Rectangle" EndTime="1" ShapeTimeSpan="10000" Label="Rectangle 4" Id="VWx7nYjwaU2Qznanv1dqVw">
+                            <KeyFrames />
+                            <Masks />
+                        </Actions>
+                    </Shape>
+                    <Shape Type="Rectangle" EndTime="1" ShapeTimeSpan="10000" X="-278" Y="224" Width="900" Height="462" TipX="0" TipY="21" Label="Rectangle 0" Id="foSs3aRH9UGyc-NuAMFkng" Left="-278" Right="278" Top="224" Bottom="-86" BackgroundColor="#b9e6fb" BackgroundColorAlt="#b9e6fb" HiddenInEditor="true" LockedInEditor="false">
+                        <KeyFrames />
+                        <Masks />
+                        <VisualStates />
+                        <Actions />
+                    </Shape>
+                    <Shape Type="Group" LineWidth="0" TimeSpanned="False" X="-577.3333" Y="-97.3333" Width="2872" Height="334" ShapeTimeSpan="10000" Id="DE7321Yq10Cdwp8ZCGFGTw" Left="-577.3333" Right="-1394.667" Top="-97.3333" Bottom="363.3333" Label="Shape Group 4" LockedInEditor="false" HiddenInEditor="true">
+                        <Shape Type="Oval" EndTime="1" ShapeTimeSpan="10000" X="0" Y="183" Width="280" Height="72" TipX="0" TipY="21" Label="Oval 1" Id="BYZvVnd_hkuHXIt6c3DTGw" BackgroundColor="#ffffff" BackgroundColorAlt="#ffffff" Transparency="0.4371186" LineWidth="0px">
+                            <KeyFrames />
+                            <Masks />
+                            <VisualStates />
+                            <Actions />
+                        </Shape>
+                        <Shape Type="Oval" EndTime="1" ShapeTimeSpan="10000" X="168" Y="151" Width="280" Height="72" TipX="0" TipY="21" Label="Oval 2" Id="OQLV3H6yN0mZm27hOwqO3A" BackgroundColor="#ffffff" BackgroundColorAlt="#ffffff" Transparency="0.4371186" LineWidth="2px" LineColor="#ffffff">
+                            <KeyFrames />
+                            <Masks />
+                            <VisualStates />
+                            <Actions />
+                        </Shape>
+                        <Shape Type="Oval" EndTime="1" ShapeTimeSpan="10000" X="392" Y="191" Width="280" Height="119.16" TipX="0" TipY="21" Label="Oval 3" Id="F5LqRkAJOUiYj20n-R_lcQ" BackgroundColor="#ffffff" BackgroundColorAlt="#ffffff" Transparency="0.4371186" LineWidth="0px">
+                            <KeyFrames />
+                            <Masks />
+                            <VisualStates />
+                            <Actions />
+                        </Shape>
+                        <Shape Type="Oval" EndTime="1" ShapeTimeSpan="10000" X="720" Y="0" Width="669.3333" Height="256.1067" TipX="0" TipY="21" Label="Oval 4" Id="w8FfAdzgPEud1SgFMTpv3A" BackgroundColor="#ffffff" BackgroundColorAlt="#ffffff" Transparency="0.4371186" LineWidth="0px">
+                            <KeyFrames />
+                            <Masks />
+                            <VisualStates />
+                            <Actions />
+                        </Shape>
+                        <Shape Type="Oval" EndTime="1" ShapeTimeSpan="10000" X="1912" Y="78" Width="669.3333" Height="256.1067" TipX="0" TipY="21" Label="Oval 5" Id="E6_E2FCpyEOzoy30W0G_UQ" BackgroundColor="#ffffff" BackgroundColorAlt="#ffffff" Transparency="0.4371186" LineWidth="0px">
+                            <KeyFrames />
+                            <Masks />
+                            <VisualStates />
+                            <Actions />
+                        </Shape>
+                        <Shape Type="Oval" EndTime="1" ShapeTimeSpan="10000" X="1389" Y="140" Width="280" Height="72" TipX="0" TipY="21" Label="Oval 6" Id="6MEMYKSJCUuK0I-d7AZfjQ" BackgroundColor="#ffffff" BackgroundColorAlt="#ffffff" Transparency="0.4371186" LineWidth="2px" LineColor="#ffffff">
+                            <KeyFrames />
+                            <Masks />
+                            <VisualStates />
+                            <Actions />
+                        </Shape>
+                        <Shape Type="Oval" EndTime="1" ShapeTimeSpan="10000" X="1661" Y="175" Width="103.9983" Height="72" TipX="0" TipY="21" Label="Oval 7" Id="xaouqy5gUkWznCsiaY6EDw" BackgroundColor="#ffffff" BackgroundColorAlt="#ffffff" Transparency="0.4371186" LineWidth="2px" LineColor="#ffffff">
+                            <KeyFrames />
+                            <Masks />
+                            <VisualStates />
+                            <Actions />
+                        </Shape>
+                        <Shape Type="Oval" EndTime="1" ShapeTimeSpan="10000" X="467" Y="111" Width="103.9983" Height="72" TipX="0" TipY="21" Label="Oval 8" Id="FTNW9Kl7y0GednXKGUJv0w" BackgroundColor="#ffffff" BackgroundColorAlt="#ffffff" Transparency="0.4371186" LineWidth="2px" LineColor="#ffffff">
+                            <KeyFrames />
+                            <Masks />
+                            <VisualStates />
+                            <Actions />
+                        </Shape>
+                        <Shape Type="Oval" EndTime="1" ShapeTimeSpan="10000" X="2352" Y="109" Width="103.9983" Height="72" TipX="0" TipY="21" Label="Oval 9" Id="XHRQkA7ZS0Grcl9lgskn7g" BackgroundColor="#ffffff" BackgroundColorAlt="#ffffff" Transparency="0.4371186" LineWidth="2px" LineColor="#ffffff">
+                            <KeyFrames />
+                            <Masks />
+                            <VisualStates />
+                            <Actions />
+                        </Shape>
+                        <Shape Type="Oval" EndTime="1" ShapeTimeSpan="10000" X="2328" Y="255" Width="280" Height="72" TipX="0" TipY="21" Label="Oval 10" Id="imRBFFTmQkaX1pEcJSnDAA" BackgroundColor="#ffffff" BackgroundColorAlt="#ffffff" Transparency="0.4371186" LineWidth="2px" LineColor="#ffffff">
+                            <KeyFrames />
+                            <Masks />
+                            <VisualStates />
+                            <Actions />
+                        </Shape>
+                        <Shape Type="Oval" EndTime="1" ShapeTimeSpan="10000" X="2592" Y="112" Width="280" Height="119.16" TipX="0" TipY="21" Label="Oval 11" Id="IIo5yPeGdE29txz51fxcZw" BackgroundColor="#ffffff" BackgroundColorAlt="#ffffff" Transparency="0.4371186" LineWidth="0px">
+                            <KeyFrames />
+                            <Masks />
+                            <VisualStates />
+                            <Actions />
+                        </Shape>
+                        <KeyFrames>
+                            <KeyFrame TargetProperty="Position" TargetValue="-855.333312988281,128.666702270508" InValue="-597.333312988281,-117.333297729492" OutValue="-557.333312988281,-77.3332977294922" />
+                            <KeyFrame TargetProperty="Position" TargetTimeMS="2999" TargetValue="-17.3333129882813,-97.3332977294922" InValue="-595.333312988281,-117.333297729492" OutValue="-555.333312988281,-77.3332977294922" />
+                            <KeyFrame TargetProperty="Position" TargetTimeMS="10000" TargetValue="-1733.33325195313,-97.3332977294922" InValue="-41.3333129882813,-117.333297729492" OutValue="-1.33331298828125,-77.3332977294922" />
+                            <KeyFrame TargetProperty="Position" TargetTimeMS="2414" TargetValue="-126.569725036621,-98.3332977294922" InValue="-146.569732666016,-118.333297729492" OutValue="-106.569725036621,-78.3332977294922" />
+                        </KeyFrames>
+                        <Masks />
+                        <VisualStates />
+                        <Actions Type="Rectangle" EndTime="1" ShapeTimeSpan="10000" Label="Rectangle 0" Id="8M3702g6L0WagO9dTTjK1g">
+                            <KeyFrames />
+                            <Masks />
+                        </Actions>
+                    </Shape>
+                    <Shape Type="Oval" EndTime="1" ShapeTimeSpan="10000" X="83" Y="357" Width="157.7547" Height="157.7549" TipX="0" TipY="21" Label="Oval 0" Id="DM_5Rd5cYk22Xa6FKKkq_w" LineColor="#000000" LineWidth="3px" BackgroundColor="#eaebe3" BackgroundColorAlt="#eaebe3" Left="83" Right="659.2453" Top="357" Bottom="85.2451">
+                        <KeyFrames />
+                        <Masks>
+                            <ClipMask Type="Rectangle" EndTime="0" ShapeTimeSpan="10000" MaskType="Clip" Id="CqBmw8z_ukyXtkNeA5xzBg" Height="0.5689516" Label="Rectangle 0">
+                                <KeyFrames />
+                                <Masks />
+                            </ClipMask>
+                        </Masks>
+                        <VisualStates />
+                        <Actions />
+                    </Shape>
+                    <Shape Type="Oval" EndTime="1" ShapeTimeSpan="10000" X="111" Y="378" Width="46" Height="46" TipX="0" TipY="21" Label="Oval 0" Id="f5bD6Ik3r0S2WLOeDpwSEg" HiddenInEditor="false" Left="111" Right="743" Top="378" Bottom="176">
+                        <KeyFrames />
+                        <Masks>
+                            <ClipMask Type="Rectangle" EndTime="0" ShapeTimeSpan="10000" MaskType="Clip" Id="2oOZrneXa0WeUIrUZwTNvg" Width="1" Label="Rectangle 0">
+                                <KeyFrames />
+                                <Masks />
+                            </ClipMask>
+                        </Masks>
+                        <VisualStates />
+                        <Actions />
+                    </Shape>
+                    <Shape Type="Polygon" EndTime="1" ShapeTimeSpan="10000" Coordinates="112.6667,379.1067,121.8,379,117.4706,383.5546,108,383.44" Label="Polygon 0" Id="P0wMXzaF0EawYgj5ANhGUA" LineWidth="0px" BackgroundColor="#f5851c" BackgroundColorAlt="#f5851c">
+                        <KeyFrames />
+                        <Masks />
+                        <VisualStates />
+                        <Actions />
+                    </Shape>
+                    <Shape Type="Oval" EndTime="1" ShapeTimeSpan="10000" X="117" Y="384" Width="34" Height="34" TipX="0" TipY="21" Label="Oval 0" Id="xOHVXqNq_kOYFaZQN8jfQA" BackgroundColor="#000000" BackgroundColorAlt="#000000" HiddenInEditor="false" Left="117" Right="749" Top="384" Bottom="182">
+                        <KeyFrames />
+                        <Masks />
+                        <VisualStates />
+                        <Actions />
+                    </Shape>
+                    <Shape Type="Polygon" EndTime="1" ShapeTimeSpan="10000" Coordinates="122,372,204,372,192,366,133.8889,366.1067" Label="Polygon 0" Id="ua3IDU0dYUytId6lltnNIQ" BackgroundColor="#808080" BackgroundColorAlt="#808080" LineWidth="0px" HiddenInEditor="false">
+                        <KeyFrames />
+                        <Masks />
+                        <VisualStates />
+                        <Actions />
+                    </Shape>
+                    <Shape Type="Polygon" EndTime="1" ShapeTimeSpan="10000" Coordinates="146,378.9956,153.1111,384.44,217.7778,384,212.5238,379" Label="Polygon 0" Id="RCMdpzutdECbdkKdFmK_uQ" BackgroundColor="#f5851c" BackgroundColorAlt="#f5851c" LineWidth="0px">
+                        <KeyFrames />
+                        <Masks />
+                        <VisualStates />
+                        <Actions />
+                    </Shape>
+                    <Shape Type="Polygon" EndTime="1" ShapeTimeSpan="10000" Coordinates="111.6,398.8,111,440.24,180.5,440.24,181,420.99" Label="Polygon 0" Id="yn3PX6rjD0eD7XyEpZpYPA" LockedInEditor="false" HiddenInEditor="false">
+                        <KeyFrames />
+                        <Masks>
+                            <ClipMask Type="Rectangle" EndTime="0" ShapeTimeSpan="10000" MaskType="Clip" Id="qr6sIHt0ZEin3wPNEadQgQ" Height="0.8975558" Y="0.1024442" Width="1.103053" X="-0.1030534" Label="Rectangle 0">
+                                <KeyFrames />
+                                <Masks />
+                            </ClipMask>
+                        </Masks>
+                        <VisualStates />
+                        <Actions />
+                    </Shape>
+                    <Shape Type="Polygon" EndTime="1" ShapeTimeSpan="10000" Coordinates="141,424.8,142.5555,439.44,180.3333,439.44,180.4445,422.7733,170,435.8,170,435.8,156,432.8,153,420.8,166,408.5511,156.3333,408.8844,156,400.6622,143.5555,417.7733,125.4445,420.6622,111.5555,400.6622,111.5555,428.5511" Label="Polygon 0" Id="rOkIIimqq0ijMnZA5YlGXA" BackgroundColor="#eaebe3" BackgroundColorAlt="#eaebe3" LineWidth="0px" LockedInEditor="false" HiddenInEditor="false">
+                        <KeyFrames />
+                        <Masks />
+                        <VisualStates />
+                        <Actions />
+                    </Shape>
+                    <Shape Type="Rectangle" EndTime="1" ShapeTimeSpan="10000" X="172" Y="334" Width="4" Height="30" TipX="0" TipY="21" Label="Rectangle 0" Id="gVNU4_uJs0e_tCp7si389A" BackgroundColor="#000000" BackgroundColorAlt="#000000" Left="172" Right="724" Top="334" Bottom="236">
+                        <KeyFrames />
+                        <Masks />
+                        <VisualStates />
+                        <Actions />
+                    </Shape>
+                    <Shape Type="Oval" EndTime="1" ShapeTimeSpan="10000" X="150" Y="408" Width="31" Height="31" TipX="0" TipY="21" Label="Oval 0" Id="L48MN16Tz0GWOk876o3ujQ" BackgroundColor="#eaebe3" BackgroundColorAlt="#eaebe3" Left="150" Right="719" Top="408" Bottom="161" LockedInEditor="false" HiddenInEditor="false">
+                        <KeyFrames />
+                        <Masks />
+                        <VisualStates />
+                        <Actions />
+                    </Shape>
+                    <Shape Type="Polyline" EndTime="1" ShapeTimeSpan="10000" Coordinates="167.2222,408.2178,156.5555,407.5511" Label="Polyline 0" Id="CXXOpeDyzUCIyQSBVfxIkw" ArrowHeads="none" LineWidth="1px">
+                        <KeyFrames />
+                        <Masks />
+                        <VisualStates />
+                        <Actions />
+                    </Shape>
+                    <Shape Type="Polyline" EndTime="1" ShapeTimeSpan="10000" Coordinates="166,408,166,408,153.3333,408.3289,151,412,150,414,148,416,147,417,146,418,144,419,144,419,142,420,142.1111,440.3289" Label="Polyline 0" Id="poOoH5tJ2UuOKB0dekD64g" ArrowHeads="none" LockedInEditor="false" HiddenInEditor="false">
+                        <KeyFrames />
+                        <Masks />
+                        <VisualStates />
+                        <Actions />
+                    </Shape>
+                    <Shape Type="Oval" EndTime="1" ShapeTimeSpan="10000" X="156" Y="413" Width="19" Height="19" TipX="0" TipY="21" Label="Oval 0" Id="DAb990KfyEK_WUHdhJZ2fg" BackgroundColor="#eaebe3" BackgroundColorAlt="#eaebe3" Left="156" Right="725" Top="413" Bottom="168">
+                        <KeyFrames />
+                        <Masks />
+                        <VisualStates />
+                        <Actions />
+                    </Shape>
+                    <Shape Type="Rectangle" EndTime="1" ShapeTimeSpan="10000" X="187" Y="324" Width="2" Height="44" TipX="0" TipY="21" Label="Rectangle 0" Id="h_ZokysxdUuDVsgICrtWPA" LineWidth="0px" BackgroundColor="#000000" BackgroundColorAlt="#000000" Left="187" Right="711" Top="324" Bottom="232">
+                        <KeyFrames />
+                        <Masks />
+                        <VisualStates />
+                        <Actions />
+                    </Shape>
+                    <Shape Type="Oval" EndTime="1" ShapeTimeSpan="10000" X="159" Y="416" Width="12" Height="12" TipX="0" TipY="21" Label="Oval 0" Id="BACACkVQUEKDPjjHO4da6Q" BackgroundColor="#000000" BackgroundColorAlt="#000000" Left="159" Right="729" Top="416" Bottom="172">
+                        <KeyFrames />
+                        <Masks />
+                        <VisualStates />
+                        <Actions />
+                    </Shape>
+                    <Shape Type="Polyline" EndTime="1" ShapeTimeSpan="10000" Coordinates="142,425,95,425,95,416,111.1111,415.9956" Label="Polyline 0" Id="se0QDdREiUSAmW8tPS1fZg" ArrowHeads="none">
+                        <KeyFrames />
+                        <Masks />
+                        <VisualStates />
+                        <Actions />
+                    </Shape>
+                    <Shape Type="Group" LineWidth="0" TimeSpanned="False" X="86" Y="426.6666" Width="149" Height="11" ShapeTimeSpan="10000" Id="hqQxdungN0KXJ8mwcoHOCw" Label="Shape Group 4" Left="86" Right="665" Top="426.6666" Bottom="162.3334">
+                        <Shape Type="Rectangle" EndTime="1" ShapeTimeSpan="10000" X="0" Y="0" Width="4.999259" Height="11.99957" TipX="0" TipY="21" Label="Rectangle 0" Id="nUfbZyPUDU67rshbW6_ndg" BackgroundColor="#f5851c" BackgroundColorAlt="#f5851c" LineColor="#f5851c" Anchors="Left">
+                            <KeyFrames />
+                            <Masks />
+                            <VisualStates />
+                            <Actions />
+                        </Shape>
+                        <Shape Type="Rectangle" EndTime="1" ShapeTimeSpan="10000" X="0" Y="0" Width="4.999259" Height="11.99957" TipX="0" TipY="21" Label="Rectangle 1" Id="LuliGEP0Tk6Xoxf-CUSNWw" BackgroundColor="#f5851c" BackgroundColorAlt="#f5851c" LineColor="#f5851c">
+                            <KeyFrames />
+                            <Masks />
+                            <VisualStates />
+                            <Actions />
+                        </Shape>
+                        <Shape Type="Rectangle" EndTime="1" ShapeTimeSpan="10000" X="87" Y="6" Width="5.666656" Height="5.332623" TipX="0" TipY="21" Label="Rectangle 2" Id="OIr2VdEKa02eZs9OgVH6Yg" BackgroundColor="#f5851c" BackgroundColorAlt="#f5851c" LineColor="#f5851c">
+                            <KeyFrames />
+                            <Masks />
+                            <VisualStates />
+                            <Actions />
+                        </Shape>
+                        <Shape Type="Rectangle" EndTime="1" ShapeTimeSpan="10000" X="95" Y="0" Width="14" Height="11.99957" TipX="0" TipY="21" Label="Rectangle 3" Id="mv3GKVJcsECvjODQFlkqmA" BackgroundColor="#f5851c" BackgroundColorAlt="#f5851c" LineColor="#f5851c">
+                            <KeyFrames />
+                            <Masks />
+                            <VisualStates />
+                            <Actions />
+                        </Shape>
+                        <Shape Type="Rectangle" EndTime="1" ShapeTimeSpan="10000" X="118" Y="0" Width="4.999259" Height="11.99957" TipX="0" TipY="21" Label="Rectangle 4" Id="nXlcVb7x7kO9Ti8PNlqqTA" BackgroundColor="#f5851c" BackgroundColorAlt="#f5851c" LineColor="#f5851c">
+                            <KeyFrames />
+                            <Masks />
+                            <VisualStates />
+                            <Actions />
+                        </Shape>
+                        <Shape Type="Rectangle" EndTime="1" ShapeTimeSpan="10000" X="126" Y="0" Width="4.999259" Height="11.99957" TipX="0" TipY="21" Label="Rectangle 5" Id="aAQ5rM5SA0ip-WyS4f0DVg" BackgroundColor="#f5851c" BackgroundColorAlt="#f5851c" LineColor="#f5851c">
+                            <KeyFrames />
+                            <Masks />
+                            <VisualStates />
+                            <Actions />
+                        </Shape>
+                        <Shape Type="Rectangle" EndTime="1" ShapeTimeSpan="10000" X="134" Y="0" Width="15.66669" Height="11.99957" TipX="0" TipY="21" Label="Rectangle 6" Id="FlKK-Uh0Dkuonj2NpKRXBg" BackgroundColor="#f5851c" BackgroundColorAlt="#f5851c" LineColor="#f5851c">
+                            <KeyFrames />
+                            <Masks />
+                            <VisualStates />
+                            <Actions />
+                        </Shape>
+                        <KeyFrames />
+                        <Masks />
+                        <VisualStates />
+                        <Actions Type="Rectangle" EndTime="1" ShapeTimeSpan="10000" Label="Rectangle 7" Id="EMpV6ZqDjUyFskEfiCNaAw">
+                            <KeyFrames />
+                            <Masks />
+                        </Actions>
+                    </Shape>
+                    <Shape Type="Rectangle" EndTime="1" ShapeTimeSpan="10000" X="84" Y="441" Width="156" Height="4.979996" TipX="0" TipY="21" Label="Rectangle 0" Id="5B3Z1yVP60eOK6PJgQwFvA" BackgroundColor="#808080" BackgroundColorAlt="#808080" LineWidth="0px" Right="660" Bottom="154.02" Left="84" Top="441">
+                        <KeyFrames />
+                        <Masks />
+                        <VisualStates />
+                        <Actions />
+                    </Shape>
+                    <Shape Type="Polygon" EndTime="1" ShapeTimeSpan="10000" Coordinates="83.5,446.98,106,460.48,219,460,240,447" Label="Polygon 0" Id="Ij8Q_QOxhEu33wLuj287GA" BackgroundColor="#ffffff" BackgroundColorAlt="#808080" LineWidth="3px" BackgroundType="GradientNS">
                         <KeyFrames />
                         <Masks />
                         <VisualStates />
@@ -2519,14 +3298,12 @@
         <Frame Name="Navigation" Id="LN4QiDWiyEKgZH_x5PcZbw" Type="Rectangle" EndTime="1" ShapeTimeSpan="100000" BackgroundColor="Transparent" TimeSpan="100000">
             <Shapes>
                 <Shapes>
-                    <Shape Type="Button" TimeSpanned="false" Width="60" Height="30" BackgroundColor="#e0ffff" Action="GotoPrevious" BackgroundType="GradientSN" Anchors="Right,Bottom" LineColor="#a9a9a9" Color="#0000ff" HoverBackgroundType="GradientSN" HoverBackgroundColor="#e0ffff" HoverBackgroundColorAlt="#ffffff" HoverLineColor="#a9a9a9" HoverLineWidth="1" HoverColor="#0000ff" HoverFontWeight="Bold" HoverUnderline="true" PressedBackgroundColor="#e0ffff" PressedLineColor="#a9a9a9" PressedLineWidth="1" PressedFontWeight="Bold" PressedUnderline="true" PressedColor="#ff4500" Right="75" Bottom="10" CornerRadius="10" ShapeTimeSpan="100000" Label="Button 0" Id="BNN4Pik8CUmIL9onMxxjuA" X="765" Y="60">Back<Actions /><KeyFrames /><Masks /></Shape>
-                    <Shape Type="Button" TimeSpanned="false" Width="60" Height="30" BackgroundColor="#e0ffff" Action="GotoNext" BackgroundType="GradientSN" Anchors="Right,Bottom" LineColor="#a9a9a9" Color="#0000ff" HoverBackgroundType="GradientSN" HoverBackgroundColor="#e0ffff" HoverBackgroundColorAlt="#ffffff" HoverLineColor="#a9a9a9" HoverLineWidth="1" HoverColor="#0000ff" HoverFontWeight="Bold" HoverUnderline="true" PressedBackgroundColor="#e0ffff" PressedLineColor="#a9a9a9" PressedLineWidth="1" PressedFontWeight="Bold" PressedUnderline="true" PressedColor="#ff4500" Right="10" Bottom="10" CornerRadius="10" ShapeTimeSpan="100000" Label="Button 1" Id="20Dv4tsi1k6YtFGCNXXJNg" X="830" Y="60">Next<Actions /><KeyFrames /><Masks /></Shape>
+                    <Shape Type="Button" TimeSpanned="false" Width="60" Height="30" BackgroundColor="#e0ffff" Action="GotoPrevious" BackgroundType="GradientSN" Anchors="Right,Bottom" LineColor="#a9a9a9" Color="#0000ff" HoverBackgroundType="GradientSN" HoverBackgroundColor="#e0ffff" HoverBackgroundColorAlt="#ffffff" HoverLineColor="#a9a9a9" HoverLineWidth="1" HoverColor="#0000ff" HoverFontWeight="Bold" HoverUnderline="true" PressedBackgroundColor="#e0ffff" PressedLineColor="#a9a9a9" PressedLineWidth="1" PressedFontWeight="Bold" PressedUnderline="true" PressedColor="#ff4500" Right="75" Bottom="10" CornerRadius="10" ShapeTimeSpan="100000" Label="Button 0" Id="BNN4Pik8CUmIL9onMxxjuA" X="765" Y="60">Back<Actions /></Shape>
+                    <Shape Type="Button" TimeSpanned="false" Width="60" Height="30" BackgroundColor="#e0ffff" Action="GotoNext" BackgroundType="GradientSN" Anchors="Right,Bottom" LineColor="#a9a9a9" Color="#0000ff" HoverBackgroundType="GradientSN" HoverBackgroundColor="#e0ffff" HoverBackgroundColorAlt="#ffffff" HoverLineColor="#a9a9a9" HoverLineWidth="1" HoverColor="#0000ff" HoverFontWeight="Bold" HoverUnderline="true" PressedBackgroundColor="#e0ffff" PressedLineColor="#a9a9a9" PressedLineWidth="1" PressedFontWeight="Bold" PressedUnderline="true" PressedColor="#ff4500" Right="10" Bottom="10" CornerRadius="10" ShapeTimeSpan="100000" Label="Button 1" Id="20Dv4tsi1k6YtFGCNXXJNg" X="830" Y="60">Next<Actions /></Shape>
                 </Shapes>
                 <OriginalImage />
             </Shapes>
-            <ActionShapes>
-                <ActionShapes />
-            </ActionShapes>
+            <ActionShapes />
             <AFrames />
             <Sounds />
         </Frame>
