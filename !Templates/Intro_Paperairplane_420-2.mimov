@@ -51,7 +51,7 @@
                             <Masks />
                         </Actions>
                     </Shape>
-                    <Shape Type="Polygon" EndTime="1" ShapeTimeSpan="2836" Coordinates="-857.4001,183.6,-939.4,337.5999,-57.39993,188.6" Label="Polygon 0" Id="q6vyRIjAbUamVwUk8bGiZg" BackgroundColor="#ffffff" BackgroundColorAlt="#ffffff" LineWidth="0px" StartTime="0.7694309" FontSize="28pt" TextAlign="Left" PaddingLeft="75px" PaddingBottom="42px">
+                    <Shape Type="Polygon" EndTime="1" ShapeTimeSpan="2843" Coordinates="-857.4001,183.6,-939.4,337.5999,-57.39993,188.6" Label="Polygon 0" Id="q6vyRIjAbUamVwUk8bGiZg" BackgroundColor="#ffffff" BackgroundColorAlt="#ffffff" LineWidth="0px" StartTime="0.7688618" FontSize="28pt" TextAlign="Left" PaddingLeft="75px" PaddingBottom="42px">
                         <KeyFrames>
                             <KeyFrame TargetProperty="Position" TargetTimeMS="9500" TargetValue="-939.400024414063,183.600006103516" InValue="-959.400024414063,163.600006103516" OutValue="-919.400024414063,203.600006103516" />
                             <KeyFrame TargetProperty="Position" TargetTimeMS="10314" TargetValue="254.199996948242,199.600006103516" InValue="-957.799987792969,163.600006103516" OutValue="-917.799987792969,203.600006103516" />
@@ -65,7 +65,7 @@
                         <VisualStates />
                         <Actions />
                     </Shape>
-                    <Shape Type="Polygon" EndTime="1" ShapeTimeSpan="2836" Coordinates="-858,177.6,-59,185.6,-773.0001,126.6" Label="Polygon 1" Id="l2Rf7OCog0GOGfRZ7wQQHg" BackgroundColor="#f0ffff" BackgroundColorAlt="#f0ffff" LineWidth="0px" StartTime="0.7694309">
+                    <Shape Type="Polygon" EndTime="1" ShapeTimeSpan="2843" Coordinates="-858,177.6,-59,185.6,-773.0001,126.6" Label="Polygon 1" Id="l2Rf7OCog0GOGfRZ7wQQHg" BackgroundColor="#f0ffff" BackgroundColorAlt="#f0ffff" LineWidth="0px" StartTime="0.7688618">
                         <KeyFrames>
                             <KeyFrame TargetProperty="Position" TargetTimeMS="9500" TargetValue="-858,126.599998474121" InValue="-878,106.599998474121" OutValue="-838,146.600006103516" />
                             <KeyFrame TargetProperty="Position" TargetTimeMS="10314" TargetValue="340.399993896484,141" InValue="-878,108.199996948242" OutValue="-838,148.199996948242" />

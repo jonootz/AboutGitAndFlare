@@ -2,7 +2,7 @@
 <MimicMovie Width="1920" Height="1080" OutputType="html5" Version="8" Comment="This template contains one blank frame. You can edit this frame or add more frames to the movie." Id="V1VSYyuvdkKTIDAKalL6nw" Type="Rectangle" EndTime="1" ShapeTimeSpan="10000">
     <Frames>
         <Frame Id="RXGr1je1tk-97FiT12y-Gg" Type="Rectangle" EndTime="1" ShapeTimeSpan="8400" BackgroundColor="#000000" BackgroundColorAlt="#000000" TimeSpanned="false" TimeSpan="8400" ComputedWidth="1920" ComputedHeight="1080">
-            <Shapes Type="Image" EndTime="1" ShapeTimeSpan="10000">
+            <Shapes Type="Image" EndTime="1" ShapeTimeSpan="8400">
                 <Shapes>
                     <Shape Type="Rectangle" EndTime="0.999881" ShapeTimeSpan="399" X="0" Y="0" Width="1920.268" Height="1079.918" TipX="0" TipY="21" Label="Rectangle 0" StartTime="0.952381" Id="gQSU4PwTo0WL3a1yelNI2A" Left="0" Right="-0.2679443" Bottom="0.08178711" BackgroundColor="#1e90ff" BackgroundColorAlt="#1e90ff" LineWidth="0px">
                         <KeyFrames>
@@ -145,11 +145,11 @@
         <ConditionTag Name="Beginner" BackgroundColor="#ff0000" />
     </ConditionTagSet>
     <MasterFrames>
-        <Frame Name="Navigation" Id="J4EcgA7wOU6XActXIcndKQ" Type="Rectangle" EndTime="1" ShapeTimeSpan="10000" BackgroundColor="Transparent">
+        <Frame Name="Navigation" Id="J4EcgA7wOU6XActXIcndKQ" Type="Rectangle" EndTime="1" ShapeTimeSpan="100000" BackgroundColor="Transparent" TimeSpan="100000">
             <Shapes>
                 <Shapes>
-                    <Shape Type="Button" TimeSpanned="false" Width="60" Height="30" BackgroundColor="#e0ffff" Action="GotoPrevious" BackgroundType="GradientSN" Anchors="Right,Bottom" LineColor="#a9a9a9" Color="#0000ff" HoverBackgroundType="GradientSN" HoverBackgroundColor="#e0ffff" HoverBackgroundColorAlt="#ffffff" HoverLineColor="#a9a9a9" HoverLineWidth="1" HoverColor="#0000ff" HoverFontWeight="Bold" HoverUnderline="true" PressedBackgroundColor="#e0ffff" PressedLineColor="#a9a9a9" PressedLineWidth="1" PressedFontWeight="Bold" PressedUnderline="true" PressedColor="#ff4500" Right="75" Bottom="10" CornerRadius="10" ShapeTimeSpan="10000" Label="Button 0" Id="r4i6s8iyMUKw4DqBzOoa5w" X="1785" Y="60">Back<Actions /></Shape>
-                    <Shape Type="Button" TimeSpanned="false" Width="60" Height="30" BackgroundColor="#e0ffff" Action="GotoNext" BackgroundType="GradientSN" Anchors="Right,Bottom" LineColor="#a9a9a9" Color="#0000ff" HoverBackgroundType="GradientSN" HoverBackgroundColor="#e0ffff" HoverBackgroundColorAlt="#ffffff" HoverLineColor="#a9a9a9" HoverLineWidth="1" HoverColor="#0000ff" HoverFontWeight="Bold" HoverUnderline="true" PressedBackgroundColor="#e0ffff" PressedLineColor="#a9a9a9" PressedLineWidth="1" PressedFontWeight="Bold" PressedUnderline="true" PressedColor="#ff4500" Right="10" Bottom="10" CornerRadius="10" ShapeTimeSpan="10000" Label="Button 1" Id="tGLQB5k4A06xCvK19mtQSQ" X="1850" Y="60">Next<Actions /></Shape>
+                    <Shape Type="Button" TimeSpanned="false" Width="60" Height="30" BackgroundColor="#e0ffff" Action="GotoPrevious" BackgroundType="GradientSN" Anchors="Right,Bottom" LineColor="#a9a9a9" Color="#0000ff" HoverBackgroundType="GradientSN" HoverBackgroundColor="#e0ffff" HoverBackgroundColorAlt="#ffffff" HoverLineColor="#a9a9a9" HoverLineWidth="1" HoverColor="#0000ff" HoverFontWeight="Bold" HoverUnderline="true" PressedBackgroundColor="#e0ffff" PressedLineColor="#a9a9a9" PressedLineWidth="1" PressedFontWeight="Bold" PressedUnderline="true" PressedColor="#ff4500" Right="75" Bottom="10" CornerRadius="10" ShapeTimeSpan="100000" Label="Button 0" Id="r4i6s8iyMUKw4DqBzOoa5w" X="1785" Y="60">Back<Actions /></Shape>
+                    <Shape Type="Button" TimeSpanned="false" Width="60" Height="30" BackgroundColor="#e0ffff" Action="GotoNext" BackgroundType="GradientSN" Anchors="Right,Bottom" LineColor="#a9a9a9" Color="#0000ff" HoverBackgroundType="GradientSN" HoverBackgroundColor="#e0ffff" HoverBackgroundColorAlt="#ffffff" HoverLineColor="#a9a9a9" HoverLineWidth="1" HoverColor="#0000ff" HoverFontWeight="Bold" HoverUnderline="true" PressedBackgroundColor="#e0ffff" PressedLineColor="#a9a9a9" PressedLineWidth="1" PressedFontWeight="Bold" PressedUnderline="true" PressedColor="#ff4500" Right="10" Bottom="10" CornerRadius="10" ShapeTimeSpan="100000" Label="Button 1" Id="tGLQB5k4A06xCvK19mtQSQ" X="1850" Y="60">Next<Actions /></Shape>
                 </Shapes>
                 <OriginalImage />
             </Shapes>
