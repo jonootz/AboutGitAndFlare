@@ -18,6 +18,76 @@
             <AFrames />
             <Sounds />
         </Frame>
+        <Frame Id="il0Z_ylbZUWL9ZVQpTwxYg" Type="Rectangle" ShapeTimeSpan="10000" BackgroundColor="#000000" BackgroundColorAlt="#000000" ComputedWidth="1280" ComputedHeight="720">
+            <Shapes Type="Image" ShapeTimeSpan="10000">
+                <Shapes>
+                    <Shape Type="Oval" ShapeTimeSpan="2517" X="482" Y="275" Width="142" Height="142" TipX="0" TipY="21" Label="Oval 7" StartTime="0" Id="WmaYkl_spUuaDo7f7IHccw" Left="482" Right="656" Top="275" Bottom="303" LineWidth="0px" EndTime="0.2517" BackgroundColor="#ffffff" BackgroundColorAlt="#ffffff" Transparency="0.8777966">
+                        <Actions />
+                        <KeyFrames />
+                        <Masks />
+                        <VisualStates />
+                    </Shape>
+                    <Shape Type="Oval" ShapeTimeSpan="2517" X="578" Y="293" Width="116" Height="116" TipX="0" TipY="21" Label="Oval 0" StartTime="0" Id="UvY-5yFDkEGOjSBvdsevKw" Left="578" Right="586" Top="293" Bottom="311" LineWidth="0px" EndTime="0.2517" BackgroundColor="#ffffff" BackgroundColorAlt="#ffffff" Transparency="0.8777966">
+                        <Actions />
+                        <KeyFrames />
+                        <Masks />
+                        <VisualStates />
+                    </Shape>
+                    <Shape Type="Oval" ShapeTimeSpan="2517" X="598" Y="322" Width="116" Height="116" TipX="0" TipY="21" Label="Oval 1" StartTime="0" Id="IXDoSMoPKUuF-dk30ob3Rw" Left="598" Right="566" Top="322" Bottom="282" LineWidth="0px" EndTime="0.2517" BackgroundColor="#ffffff" BackgroundColorAlt="#ffffff" Transparency="0.8777966">
+                        <Actions />
+                        <KeyFrames />
+                        <Masks />
+                        <VisualStates />
+                    </Shape>
+                    <Shape Type="Oval" ShapeTimeSpan="2517" X="660" Y="311" Width="116" Height="116" TipX="0" TipY="21" Label="Oval 2" StartTime="0" Id="RdTYHiVWqk-HREXmEFJqZQ" Left="660" Right="504" Top="311" Bottom="293" LineWidth="0px" EndTime="0.2517" BackgroundColor="#ffffff" BackgroundColorAlt="#ffffff" Transparency="0.8777966">
+                        <Actions />
+                        <KeyFrames />
+                        <Masks />
+                        <VisualStates />
+                    </Shape>
+                    <Shape Type="Oval" ShapeTimeSpan="2517" X="472" Y="270" Width="116" Height="116" TipX="0" TipY="21" Label="Oval 3" StartTime="0" Id="b-YDlt3SYUSAanZNuorvlw" Left="472" Right="692" Top="270" Bottom="334" LineWidth="0px" EndTime="0.2517" BackgroundColor="#ffffff" BackgroundColorAlt="#ffffff" Transparency="0.8777966">
+                        <Actions />
+                        <KeyFrames />
+                        <Masks />
+                        <VisualStates />
+                    </Shape>
+                    <Shape Type="Oval" ShapeTimeSpan="2517" X="545" Y="326" Width="116" Height="116" TipX="0" TipY="21" Label="Oval 4" StartTime="0" Id="XCBl31twXk2lLZM0MTxpsg" Left="545" Right="619" Top="326" Bottom="278" LineWidth="0px" EndTime="0.2517" BackgroundColor="#ffffff" BackgroundColorAlt="#ffffff" Transparency="0.8777966">
+                        <Actions />
+                        <KeyFrames />
+                        <Masks />
+                        <VisualStates />
+                    </Shape>
+                    <Shape Type="Oval" ShapeTimeSpan="2517" X="641" Y="284" Width="116" Height="116" TipX="0" TipY="21" Label="Oval 5" StartTime="0" Id="NXoxI2GSBkCcqG57eJI4cQ" Left="641" Right="523" Top="284" Bottom="320" LineWidth="0px" EndTime="0.2517" BackgroundColor="#ffffff" BackgroundColorAlt="#ffffff" Transparency="0.8777966">
+                        <Actions />
+                        <KeyFrames />
+                        <Masks />
+                        <VisualStates />
+                    </Shape>
+                    <Shape Type="Oval" ShapeTimeSpan="2517" X="571" Y="283" Width="116" Height="116" TipX="0" TipY="21" Label="Oval 6" StartTime="0" Id="4cQAZzTzA0qPzDa5QCTteQ" Left="571" Right="593" Top="283" Bottom="321" LineWidth="0px" EndTime="0.2517" BackgroundColor="#ffffff" BackgroundColorAlt="#ffffff" Transparency="0.8777966">
+                        <Actions />
+                        <KeyFrames />
+                        <Masks />
+                        <VisualStates />
+                    </Shape>
+                    <Shape Type="Oval" ShapeTimeSpan="2517" X="555" Y="269" Width="152" Height="152" TipX="0" TipY="21" Label="Oval 8" StartTime="0" Id="4KAfNH6UZ02y4CUyHLoY3g" Left="555" Right="573" Top="269" Bottom="299" LineWidth="0px" EndTime="0.2517" BackgroundColor="#ffffff" BackgroundColorAlt="#ffffff" Transparency="0.8777966">
+                        <Actions />
+                        <KeyFrames />
+                        <Masks />
+                        <VisualStates />
+                    </Shape>
+                    <Shape Type="Rectangle" ShapeTimeSpan="4799" X="469" Y="312" Width="342" Height="95" TipX="0" TipY="21" Label="Rectangle 0" BackgroundColor="Transparent" Id="IlZzNoKlS0yxTehBHOpnFA" Left="469" Right="469" Top="312" Bottom="313" LineColor="Transparent" BackgroundColorAlt="Transparent" EndTime="0.4799" Color="#cd5c5c" FontSize="48pt">{\rtf1\ansi\ansicpg1252\uc1\htmautsp\deff2{\fonttbl{\f0\fcharset0 Times New Roman;}{\f2\fcharset0 Arial;}}{\colortbl\red0\green0\blue0;\red255\green255\blue255;}\loch\hich\dbch\pard\plain\ltrpar\itap0{\lang1033\fs96\f2\cf0 \cf0\qc{\f2 {\b\ltrch MIMIC}\li0\ri0\sa0\sb0\fi0\qc\par}
+}
+}<KeyFrames></KeyFrames><Masks /><VisualStates /><Actions /></Shape>
+                </Shapes>
+                <Shapes IsResourceLayer="true" Name="Resources" />
+                <ConditionTagSet />
+            </Shapes>
+            <ActionShapes>
+                <ActionShapes />
+            </ActionShapes>
+            <AFrames />
+            <Sounds />
+        </Frame>
         <Frame UsePreviousBitmap="true" Id="ZQt5WVtbgEehVNo26MIkSw" Type="Rectangle" ShapeTimeSpan="10000" ComputedWidth="1280" ComputedHeight="720">
             <Shapes>
                 <Shapes>
@@ -505,6 +575,9 @@
                     <Shape Type="Button" TimeSpanned="false" Width="60" Height="30" BackgroundColor="#e0ffff" BackgroundType="GradientSN" Anchors="Right,Bottom" LineColor="#ffffff" Color="#000000" HoverBackgroundType="GradientSN" HoverBackgroundColor="#e0ffff" HoverBackgroundColorAlt="#ffffff" HoverLineColor="#a9a9a9" HoverLineWidth="1" HoverColor="#0000ff" HoverFontWeight="Bold" HoverUnderline="true" PressedBackgroundColor="#e0ffff" PressedLineColor="#a9a9a9" PressedLineWidth="1" PressedFontWeight="Bold" PressedUnderline="true" PressedColor="#ff4500" Right="10" Bottom="10" CornerRadius="0px" ShapeTimeSpan="10000" Label="Button 1" Id="R59dXA7DA0qLK1wLo0ZGOQ" X="1210" Y="60" BackgroundColorAlt="#e0ffff" EnableShadeEffect="false" EnableZoomEffect="false" ImageScaleFactor="1" ImageScaleToWidth="0" ImageScaleToHeight="0" TransparencyColor="transparent" ZoomEffectMoveXFactor="0.2" ZoomEffectMoveYFactor="0.8" ZoomEffectLineColor="#808080" ZoomEffectLineWidth="1px" ZoomEffectFactor="2" FontSize="14pt" Transparency="0.4879661">{\rtf1\ansi\ansicpg1252\uc1\htmautsp\deff2{\fonttbl{\f0\fcharset0 Times New Roman;}{\f2\fcharset0 Arial;}}{\colortbl\red0\green0\blue0;\red255\green255\blue255;}\loch\hich\dbch\pard\plain\ltrpar\itap0{\lang1033\fs28\f2\cf0 \cf0\qc{\f2 {\ltrch Next}\li0\ri0\sa0\sb0\fi0\qc\par}
 }
 }<Actions><Action Action="GotoNext"><Parameters /></Action></Actions><KeyFrames /><Masks /><VisualStates /></Shape>
+                    <Shape Type="Rectangle" ShapeTimeSpan="10000" X="138" Y="72" Width="104" Height="138" TipX="0" TipY="21" Label="Rectangle 0" Id="nO7N-R4vmk-UWu6ZwEx_mA" Left="138" Right="1038" Top="72" Bottom="510">{\rtf1\ansi\ansicpg1252\uc1\htmautsp\deff2{\fonttbl{\f0\fcharset0 Times New Roman;}{\f2\fcharset0 Arial;}}{\colortbl\red0\green0\blue0;\red255\green255\blue255;}\loch\hich\dbch\pard\plain\ltrpar\itap0{\lang1033\fs24\f2\cf0 \cf0\qc{\f2 {\ltrch switch to black doesnt work}\li0\ri0\sa0\sb0\fi0\qc\par}
+}
+}<KeyFrames /><Masks /><VisualStates /><Actions /></Shape>
                 </Shapes>
                 <OriginalImage Type="Image" ShapeTimeSpan="10000" />
                 <Shapes IsResourceLayer="true" Name="Resources" />
