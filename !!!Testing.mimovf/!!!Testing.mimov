@@ -1637,7 +1637,7 @@
                             <KeyFrame TargetProperty="Position" TargetTimeMS="9869" TargetValue="522.666687011719,123.666656494141" InValue="502.666687011719,247.666656494141" OutValue="542.666687011719,287.666656494141" />
                         </KeyFrames>
                         <Masks>
-                            <ClipMask Type="Rectangle" ShapeTimeSpan="1310" TimeSpanned="false" EndTime="100" MaskType="Clip" Id="lJSV1Q9zdEWsSxdFTFRl9g">
+                            <ClipMask Type="Rectangle" ShapeTimeSpan="1310" TimeSpanned="false" EndTime="100" MaskType="Clip" Id="lJSV1Q9zdEWsSxdFTFRl9g" Label="Rectangle 0">
                                 <KeyFrames>
                                     <KeyFrame TargetProperty="Position" TargetValue="0,0" InValue="-0.100000001490116,-0.100000001490116" OutValue="0.100000001490116,0.100000001490116" />
                                     <KeyFrame TargetProperty="Size" TargetValue="1,1" />
@@ -1659,7 +1659,7 @@
                             <KeyFrame TargetProperty="Position" TargetTimeMS="9869" TargetValue="500.466674804688,116.666656494141" InValue="444.466674804688,344.666656494141" OutValue="484.466674804688,384.666656494141" />
                         </KeyFrames>
                         <Masks>
-                            <ClipMask Type="Rectangle" ShapeTimeSpan="1310" TimeSpanned="false" EndTime="100" MaskType="Clip" Id="c2uHsAxE6EuWB1A98KWOTA">
+                            <ClipMask Type="Rectangle" ShapeTimeSpan="1310" TimeSpanned="false" EndTime="100" MaskType="Clip" Id="c2uHsAxE6EuWB1A98KWOTA" Label="Rectangle 0">
                                 <KeyFrames>
                                     <KeyFrame TargetProperty="Position" TargetValue="0,0" InValue="-0.100000001490116,-0.100000001490116" OutValue="0.100000001490116,0.100000001490116" />
                                     <KeyFrame TargetProperty="Size" TargetValue="1,1" />
@@ -1709,7 +1709,7 @@
                             <KeyFrame TargetProperty="Position" TargetTimeMS="9869" TargetValue="978.866638183594,119.066680908203" InValue="834.866638183594,359.066680908203" OutValue="874.866638183594,399.066680908203" />
                         </KeyFrames>
                         <Masks>
-                            <ClipMask Type="Rectangle" ShapeTimeSpan="1310" TimeSpanned="false" EndTime="100" MaskType="Clip" Id="UHRW-ZB3IkiLv7wUel1QiA" Height="1">
+                            <ClipMask Type="Rectangle" ShapeTimeSpan="1310" TimeSpanned="false" EndTime="100" MaskType="Clip" Id="UHRW-ZB3IkiLv7wUel1QiA" Height="1" Label="Rectangle 0">
                                 <KeyFrames />
                                 <Masks />
                             </ClipMask>
@@ -1742,7 +1742,7 @@
                             <KeyFrame TargetProperty="Position" TargetTimeMS="9869" TargetValue="951.666687011719,122.266662597656" InValue="855.666687011719,298.266662597656" OutValue="895.666687011719,338.266662597656" />
                         </KeyFrames>
                         <Masks>
-                            <ClipMask Type="Rectangle" ShapeTimeSpan="1310" TimeSpanned="false" EndTime="100" MaskType="Clip" Id="pjlN5Cq8fUCR5uWHdnW27w">
+                            <ClipMask Type="Rectangle" ShapeTimeSpan="1310" TimeSpanned="false" EndTime="100" MaskType="Clip" Id="pjlN5Cq8fUCR5uWHdnW27w" Label="Rectangle 0">
                                 <KeyFrames />
                                 <Masks />
                             </ClipMask>
@@ -1774,7 +1774,7 @@
                             <KeyFrame TargetProperty="Position" TargetTimeMS="9869" TargetValue="930.86669921875,127.866653442383" InValue="862.86669921875,211.866653442383" OutValue="902.86669921875,251.866653442383" />
                         </KeyFrames>
                         <Masks>
-                            <ClipMask Type="Rectangle" ShapeTimeSpan="1310" TimeSpanned="false" EndTime="100" MaskType="Clip" Id="0n_u-nAq7U-AmmghGanY-A">
+                            <ClipMask Type="Rectangle" ShapeTimeSpan="1310" TimeSpanned="false" EndTime="100" MaskType="Clip" Id="0n_u-nAq7U-AmmghGanY-A" Label="Rectangle 0">
                                 <KeyFrames />
                                 <Masks />
                             </ClipMask>
@@ -1806,7 +1806,7 @@
                             <KeyFrame TargetProperty="Position" TargetTimeMS="9869" TargetValue="870.86669921875,127.866653442383" InValue="866.86669921875,215.866653442383" OutValue="906.86669921875,255.866653442383" />
                         </KeyFrames>
                         <Masks>
-                            <ClipMask Type="Rectangle" ShapeTimeSpan="1310" TimeSpanned="false" EndTime="100" MaskType="Clip" Id="56OqoxjYHUGXBrheqYSfPg">
+                            <ClipMask Type="Rectangle" ShapeTimeSpan="1310" TimeSpanned="false" EndTime="100" MaskType="Clip" Id="56OqoxjYHUGXBrheqYSfPg" Label="Rectangle 0">
                                 <KeyFrames>
                                     <KeyFrame TargetProperty="Size" TargetValue="1,1" />
                                     <KeyFrame TargetProperty="Position" TargetValue="0,0" InValue="-0.100000001490116,-0.100000001490116" OutValue="0.100000001490116,0.100000001490116" />
@@ -1828,7 +1828,7 @@
                             <KeyFrame TargetProperty="Position" TargetTimeMS="9869" TargetValue="906.86669921875,127.866653442383" InValue="862.86669921875,211.866653442383" OutValue="902.86669921875,251.866653442383" />
                         </KeyFrames>
                         <Masks>
-                            <ClipMask Type="Rectangle" ShapeTimeSpan="1310" TimeSpanned="false" EndTime="100" MaskType="Clip" Id="EllQDtsGn0ap4y0ctSQDMQ">
+                            <ClipMask Type="Rectangle" ShapeTimeSpan="1310" TimeSpanned="false" EndTime="100" MaskType="Clip" Id="EllQDtsGn0ap4y0ctSQDMQ" Label="Rectangle 0">
                                 <KeyFrames />
                                 <Masks />
                             </ClipMask>
@@ -1847,7 +1847,9 @@
                 <ActionShapes />
             </ActionShapes>
             <AFrames />
-            <Sounds />
+            <Sounds>
+                <Sound SoundEffect="system:Music03QuarterVolume5Sec.mp3" Label="Sound 0" />
+            </Sounds>
         </Frame>
     </Frames>
     <Skin>
